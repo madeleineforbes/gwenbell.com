@@ -4,17 +4,17 @@ Bed-Stuy Code or Die
 7 Apr 2013
 ----------
 
-_Code_
+**Code**
 
 Code or Die came like a flash from Biggie Smalls' brain to my heart as I sat at the Bed-Stuy donut shop, eating a salted caramel. 
 
-Code. I'm singularly obsessed with deepening and deepening into code. It strikes me I have no other option, nor would I want one. 2011. Moved to Mexico for three months. Off, off grid. Communed with baby geckos and beautiful women whose hips sashayed.
+Code. I'm singularly obsessed with deepening and deepening into code. It strikes me I have no other option, nor do I want one. 2011. Moved to Mexico for three months. Off, off grid. Lived in a hotel on the water for a month, swang in a hammock and communed with baby geckos and beautiful women whose hips sashayed.
 
 I love Mexico, and I missed the web. You can't be offline and watch the web now, can't comment on it, can't just use it - have to code it. I became a programmer because I got fed up with the lack of programmers building the kinds of things I want. As I traveled the globe in 2012 I'd sit down with someone at a pub and say 'I want this. Can you build it?' Six months later, nothing.
 
 I want clean code, I want spanking beats. I want code only I can create. That's why I became a programmer.
 
-_Die_
+**Die**
 
 The death piece. I spent the last night of my mom's life massaging her dying body with fragrance-free lotion I can still smell. She died in my grandmother's arms a few hours later. Some find my seriousness about life unnerving. Since her death I've been preparing for my own. You hit this point, where the rubber meets the road - and you know you're in it or you're sniffling your way home. So, this is where the rubber meets the road. 
 
