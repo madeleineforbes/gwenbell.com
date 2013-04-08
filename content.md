@@ -18,3 +18,5 @@ Because, actually, I'm finding it better to let things percolate here rather tha
 Continued work on Bitters by talking with them about what it would be like if it were ideal for them too. Nailed the Git beat.
 
 After chicken quesadillas, laid down my head and began creating the drool puddle in which I awoke.
+
+![Williamsburg Bridge, NY](images/williamsbrg-bridge-april-2013.jpg)
