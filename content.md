@@ -1,6 +1,8 @@
 Stream
 ======
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F87462442&amp;color=c4c4c4&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
 + **10 Apr** Each Spring I'm reminded one Spring will be my last.
 + **9 Apr** Launchdaymazingness. [Git for Publishers](http://git.gwenbell.com/) is here!
 + **2 Apr** Unless you're Nunu, you won't hear from me for a few days. Going under to finish Git for Publishers. Check my [commits](http://github.com/gwenbell) if you're wanting to play in code! Or find me on [http://socialno.de](http://socialno.de/) (accessible by CJDNS) where I'll be blowing off steam for five minutes per day.
@@ -12,11 +14,6 @@ Stream
 + **29 Mar** Programming. Writing. Eating bacon cheeseburgers cooked by one master cheeseburger artist. Dancing around to Radiohead. Napping with two cats. Tubular Friday.
 + **28 Mar** Walked through Hasidic Jewish Williamsburg last night. One of the most surprising, surreal things I've done in some time. Read [Escape from the Holy Shtetl](http://nymag.com/news/features/48532/) when I got home - beautiful piece, frame.
 + **28 Mar** "One customer in a queue in Nicosia told the BBC's Tim Willcox he was withdrawing the allowed daily amount of 300 euros ($383; £253) but would take out all of his money if he could." [Tim Willcox for the BBC](http://www.bbc.co.uk/news/business-21963462)
-
-Sounds
-======
-
-<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F2165026&amp;color=bdbdbd&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
 Notes
 =====
