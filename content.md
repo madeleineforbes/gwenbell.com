@@ -13,6 +13,14 @@ Stream
 + **28 Mar** Walked through Hasidic Jewish Williamsburg last night. One of the most surprising, surreal things I've done in some time. Read [Escape from the Holy Shtetl](http://nymag.com/news/features/48532/) when I got home - beautiful piece, frame.
 + **28 Mar** "One customer in a queue in Nicosia told the BBC's Tim Willcox he was withdrawing the allowed daily amount of 300 euros ($383; £253) but would take out all of his money if he could." [Tim Willcox for the BBC](http://www.bbc.co.uk/news/business-21963462)
 
-![Biggie Donut](images/biggie-donut.jpg)
+Sounds
+======
 
-*Everything on this site is written in vanishing ink. Read it today. It may be gone tomorrow.*
+<iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F2165026&amp;color=bdbdbd&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
+Notes
+=====
+
++ Everything on this site is written in vanishing ink. Read it today. It may be gone tomorrow.
++ If you'd like to be in touch, I'm on Hyperboria as gwen, and gwen at gwenbell.com for traditional messages.
++ If you'd like a one on one (on Skype or in person if you're in the city), please let me know your technical skill level. Please describe your skill level with HTML/CSS - which I consider beginner, and Git/Stylus/Express/Node - which I consider intermediate.
