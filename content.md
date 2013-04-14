@@ -1,7 +1,7 @@
 Stream
 ======
 
-+ New [About](http://gwenbell.com/about). Hooray. Next, to yoga to decompress. Intense weekend on the machine!
++ **14 Apr** New [About](http://gwenbell.com/about). Hooray. Next, to yoga to decompress. Intense weekend on the machine!
 
 + **13 Apr** Today after donuts, [Ev](http://www.evbogue.com) deployed the routing element for Bitters. If you're migrating off WordPress because of the [brute force attacks](http://arstechnica.com/security/2013/04/huge-attack-on-wordpress-sites-could-spawn-never-before-seen-super-botnet/), boredom or frustration that your plugins are borked, holler.
 
