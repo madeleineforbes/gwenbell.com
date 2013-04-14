@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **13 Apr** Today after donuts, [Ev](http://evbogue.com) deployed the dynamic routing element for Bitters. If you're migrating off WordPress because of the [brute force attacks](http://arstechnica.com/security/2013/04/huge-attack-on-wordpress-sites-could-spawn-never-before-seen-super-botnet/), boredom or frustration that your plugins are borked, holler.
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F87462442&amp;color=666666&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
 + **12 Apr** Huge, huge week. Ended with a personal note from YC the Cynic. I nearly died b/c I got it _as I was listening_ to his track.
