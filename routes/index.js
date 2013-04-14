@@ -8,5 +8,5 @@ exports.index = function(req, res){
 };
 
 exports.about = function(req, res){
-	res.render('index', { title: 'About Gwen Bell'});
+	res.render('about', { title: 'About Gwen Bell'});
 };
