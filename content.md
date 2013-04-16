@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **16 Apr** [Shit](http://blog.linode.com/2013/04/16/security-incident-update/).
+
 + **15 Apr** Baked chocolate chip cookies, commited about 100 site changes, and added two new chapters to [Git for Publishers](http://git.gwenbell.com). Solid night in with candles lit and simply rain in the background.
 
 + **14 Apr** New [About](http://gwenbell.com/about). Hooray. Next, to yoga to decompress. Intense weekend on the machine!
