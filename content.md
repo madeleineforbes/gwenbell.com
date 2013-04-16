@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **16 Apr** Discovered a new Japanese ramen ya, followed by work, followed by a conversation about SHA with M. This day could only get better with yoga. And that's next.
+
 + **16 Apr** [Shit](http://blog.linode.com/2013/04/16/security-incident-update/).
 
 + **15 Apr** Baked chocolate chip cookies, commited about 100 site changes, and added two new chapters to [Git for Publishers](http://git.gwenbell.com). Solid night in with candles lit and simply rain in the background.
