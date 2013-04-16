@@ -1,7 +1,7 @@
 Stream
 ======
 
-+ **15 Apr** Baked some chocolate chip cookies, commited about 100 site changes, and added two new chapters added to _Git for Publishers_. Solid night in with candles lit and simply rain in the background.
++ **15 Apr** Baked some chocolate chip cookies, commited about 100 site changes, and added two new chapters to _Git for Publishers_. Solid night in with candles lit and simply rain in the background.
 
 + **15 Apr** [3 Grad Students Walk into a Bar...](https://soundcloud.com/gwenbell/three-grad-students-walk-into)
 
