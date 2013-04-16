@@ -1,25 +1,17 @@
 Stream
 ======
 
++ **15 Apr** Baked some chocolate chip cookies, commited about 100 site changes, and added two new chapters added to _Git for Publishers_. Solid night in with candles lit and simply rain in the background.
+
 + **15 Apr** [3 Grad Students Walk into a Bar...](https://soundcloud.com/gwenbell/three-grad-students-walk-into)
 
 + **14 Apr** New [About](http://gwenbell.com/about). Hooray. Next, to yoga to decompress. Intense weekend on the machine!
 
 + **13 Apr** Today after donuts, [Ev](http://www.evbogue.com) deployed the routing element for Bitters. If you're migrating off WordPress because of the [brute force attacks](http://arstechnica.com/security/2013/04/huge-attack-on-wordpress-sites-could-spawn-never-before-seen-super-botnet/), boredom or frustration that your plugins are borked, holler.
 
-+ **13 Apr** Spoken word: The Power of Git. [Listen, listen!](https://soundcloud.com/gwenbell/the-power-of-git)
+Technical Notes
+===============
 
-+ **12 Apr** Huge, huge week. Ended with a personal note from YC the Cynic. I nearly died b/c I got it _as I was listening_ to his track.
-+ **10 Apr** Each Spring I'm reminded one Spring will be my last.
-+ **9 Apr** Launchdaymazingness. [Git for Publishers](http://git.gwenbell.com/) is here!
-+ **2 Apr** Unless you're Nunu, you won't hear from me for a few days. Going under to finish Git for Publishers. Check my [commits](http://github.com/gwenbell) if you're wanting to play in code! Or find me on [http://socialno.de](http://socialno.de/) (accessible by CJDNS) where I'll be blowing off steam for five minutes per day.
-+ **1 Apr** This city. Is. 
-+ **1 Apr** Moved into new apt in Bed-Stuy. Settling in with yoga and the sounds of a construction crew. 
-+ **31 Mar** Moving into my new apartment. In New York City. This is a first. Eeeeee!
-
-Notes
-=====
-
-+ This site is written in vanishing ink. Read it today. It may be gone tomorrow.
-+ If you'd like to be in touch, I'm on Hyperboria as gwen, and gwen at gwenbell.com for traditional messages.
-+ If you'd like a one on one (on Skype or in person if you're in the city), please let me know your technical skill level. Please describe your skill level with HTML/CSS - which I consider beginner, and Git/Stylus/Express/Node - which I consider intermediate.
++ I write this site in vanishing ink. Read it today. It may be gone tomorrow.
++ You can reach me at [gwen at gwenbell.com](mailto:gwen@gwenbell.com).
++ For one on one technical support, when you contact me please self-evaluate and share your skill level. HTML/CSS/Markdown - I consider beginner, Git/Stylus/Jade/Express/Node - I consider intermediate.
