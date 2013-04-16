@@ -13,5 +13,5 @@ Technical Notes
 ===============
 
 + I write this site in vanishing ink. Read it today. It may be gone tomorrow.
-+ You can reach me at [gwen at gwenbell.com](mailto:gwen@gwenbell.com).
++ Reach me at [gwen at gwenbell.com](mailto:gwen@gwenbell.com).
 + For one on one technical support, when you contact me please self-evaluate and share your skill level. HTML/CSS/Markdown - I consider beginner, Git/Stylus/Jade/Express/Node - I consider intermediate.
