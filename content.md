@@ -1,9 +1,7 @@
 Stream
 ======
 
-+ **15 Apr** Baked some chocolate chip cookies, commited about 100 site changes, and added two new chapters to _Git for Publishers_. Solid night in with candles lit and simply rain in the background.
-
-+ **15 Apr** [3 Grad Students Walk into a Bar...](https://soundcloud.com/gwenbell/three-grad-students-walk-into)
++ **15 Apr** Baked chocolate chip cookies, commited about 100 site changes, and added two new chapters to [Git for Publishers](http://git.gwenbell.com). Solid night in with candles lit and simply rain in the background.
 
 + **14 Apr** New [About](http://gwenbell.com/about). Hooray. Next, to yoga to decompress. Intense weekend on the machine!
 
@@ -14,4 +12,5 @@ Technical Notes
 
 + I write this site in vanishing ink. Read it today. It may be gone tomorrow.
 + Reach me at [gwen at gwenbell.com](mailto:gwen@gwenbell.com).
-+ For one on one technical support, when you contact me please self-evaluate and share your skill level. HTML/CSS/Markdown - I consider beginner, Git/Stylus/Jade/Express/Node - I consider intermediate.
++ For technical support, when you contact me please self-evaluate and share your skill level. Beginner: learning HTML/CSS/Markdown. Intermediate: Git/Stylus/Jade/Express/Node.
+
