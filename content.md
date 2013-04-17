@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **17 Apr** Today may or may not also include an interview. But it for sure includes site updates, client work and sunshine.
+
 + **16 Apr** Discovered a new Japanese ramen ya, followed by work, followed by a conversation about SHA with M. This day could only get better with yoga. And that's next.
 
 + **16 Apr** [Shit](http://blog.linode.com/2013/04/16/security-incident-update/).
