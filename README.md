@@ -1,7 +1,7 @@
 Bitters
 =======
 
-Bitters is a simple-as-possible single page Node.js website.
+Bitters is a simple as pie single page Node.js website.
 
 ### Installation
 
@@ -10,7 +10,7 @@ Bitters is a simple-as-possible single page Node.js website.
 	$ npm install
 	$ node app.js
 
-Navigate to [http://localhost:7777/](http://localhost:7777/) to see your bitters.
+Navigate to [http://localhost:7777/](http://localhost:7777/) to see your Bitters.
 
 Edit the content.md file to change the contents of the main content frame. 
 
