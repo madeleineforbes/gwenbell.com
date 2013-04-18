@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **18 Apr** Know how you know when there's a new Drake album out? All of Bed-Stuy shakes to the new beats bumping from speakers at stoplights!
+
 + **18 Apr** Pulled [Bitters](https://github.com/gwenbell/gwenbell.com/pulse) down from Gitboria where it was hidden behind CJDNS. You can now view source. Pull request, anyone!?
 
 + **17 Apr** [Idiocracy](https://www.rottentomatoes.com/m/idiocracy/) may be my all-time favorite movie. Honest, hilarious, foreboding, robust. Just watched it for the third time. Confirmed. Might have killed Luke Wilson's career, but it lights me up.
