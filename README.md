@@ -1,7 +1,7 @@
 Bitters
 =======
 
-Bitters is a simple as pie single page Node.js website.
+Bitters is a simple as pie single page Node.js website. Sprouted by Gwen Bell and Ev Bogue in Brooklyn, New York.
 
 ### Installation
 
