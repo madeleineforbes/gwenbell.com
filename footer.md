@@ -1,3 +1,1 @@
-[About](http://gwenbell.com/about)
-
-[Contact](mailto:gwen@gwenbell.com)
+[About](http://gwenbell.com/about)&nbsp;&nbsp;&nbsp;[Letter](https://tinyletter.com/gwenbell)&nbsp;&nbsp;&nbsp;[Contact](mailto:gwen@gwenbell.com)
