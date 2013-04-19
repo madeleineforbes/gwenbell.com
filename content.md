@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **19 Apr** Letter out the door, inbox full of heart-felt responses in return. The best kind of push and pull. I am touched, again and again.
+
 + **19 Apr** Woke up to partly sunny skies and pull requests to merge. Thank you, Alex!!
 
 + **18 Apr** Know how you know when there's a new Drake album out? All of Bed-Stuy shakes to the new beats bumping from speakers at stoplights!
@@ -16,11 +18,3 @@ Stream
 + **15 Apr** Baked chocolate chip cookies, commited about 100 site changes, and added two new chapters to [Git for Publishers](http://git.gwenbell.com). Solid night in with candles lit and simply rain in the background.
 
 + **14 Apr** New [About](http://gwenbell.com/about). Hooray. Next, to yoga to decompress. Intense weekend on the machine!
-
-Technical Notes
-===============
-
-+ I write this site in vanishing ink. Read it today. It may be gone tomorrow.
-+ Reach me at [gwen at gwenbell.com](mailto:gwen@gwenbell.com).
-+ For technical support, when you contact me please self-evaluate and share your skill level. Beginner: learning HTML/CSS/Markdown. Intermediate: Git/Stylus/Jade/Express/Node.
-
