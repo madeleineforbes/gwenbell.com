@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **19 Apr** Woke up to partly sunny skies and pull requests to merge. Thank you, Alex!!
+
 + **18 Apr** Know how you know when there's a new Drake album out? All of Bed-Stuy shakes to the new beats bumping from speakers at stoplights!
 
 + **18 Apr** Pulled [Bitters](https://github.com/gwenbell/gwenbell.com/pulse) down from Gitboria where it was hidden behind CJDNS. You can now view source. Pull request, anyone!?
