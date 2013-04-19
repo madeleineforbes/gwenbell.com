@@ -5,12 +5,12 @@ Bitters is a simple as pie single page Node.js website. Sprouted by Gwen Bell an
 
 ### Installation
 
-	$ git clone http://gitboria.com/ev/bitters.git
+	$ git clone https://github.com/gwenbell/gwenbell.com.git
 	$ cd bitters
 	$ npm install
 	$ node app.js
 
-Navigate to [http://localhost:7777/](http://localhost:7777/) to see your Bitters.
+Navigate to [http://localhost:9778/](http://localhost:9778/) to see your Bitters.
 
 Edit the content.md file to change the contents of the main content frame. 
 
