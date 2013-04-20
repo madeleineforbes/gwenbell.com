@@ -1,6 +1,8 @@
 Stream
 ======
 
++ **20 Apr** It's Spring in New York City. It's gorgeous, clear-skied and flowering.
+
 + **19 Apr** Chills on chills. Wow, y'all.
 
 + **19 Apr** Letter out the door, inbox full of heart-felt responses in return. The best kind of push and pull. I am touched, again and again.
