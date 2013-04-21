@@ -1,18 +1,18 @@
 About
 -----
 
-I'm a technical writer and web developer. I live in Brooklyn, New York. I teach clients to live on the command line. I show them how to commit to Git. I help them learn to code.
+I'm a technical writer and web developer. I live in Brooklyn, New York. I teach clients to live on the command line. I can show you how to commit with Git. I will help you learn to code. I believe we each have a choice now: program or be programmed. I choose to program.
 
-People tell me they want my life. You may think, when you see me from afar, just on the web, I have this fantastic life. Constant fun. It looks like I just run around the Japaneast Village of New York eating pork ramen following a sweaty yoga class.
+I also choose to write. Most recently, all of 2012 I traveled the globe - Japan, Berlin, Singapore, Mexico and San Francisco - living out of one bag, doing the work every day. It wasn't until 2012 that I committed to becoming a full-time programmer as well as writer. 
 
-Reality is, I'm a miserable git. _That_ is why you don't want to hang out with me. I work all day, every day to make it look effortless. Even when I'm on the mat, I'm wringing out what's next. When I sleep, I dream in Jade lang. And you seeing me like that. You'll see. It isn't fun. It's work.
+You can do both.
 
-And that will break your reality. You might think you want my life, you want to clone or co-work with me. You don't. When people sit across the table from me on their machines, they _can't handle it_. 
+I introduced myself to someone in my favorite ramen shop today. She was saying she wasn't sure if you can be both a programmer and an extravert. In my experience, you can. But it might break you. It broke me. But, that's how I roll. It has been worth it to get still and go quiet and learn the command line.
 
-It's hard work being a full-time miserable git.
+If you're learning and have questions, [be in touch](mailto:gwen@gwenbell.com). If you want something to read to learn about Git, I [can help with that](http://git.gwenbell.com). If you just want to see a responsive site built on a combination of Jade, Stylus, Markdown and Node.js, you're looking at it. I appreciate [pull requests](http://github.com/gwenbell) of all stripe.
 
 _Gwen_
 </br>
 _Brooklyn, NYC_
 </br>
-_April 2013_
+_20 April 2013_
