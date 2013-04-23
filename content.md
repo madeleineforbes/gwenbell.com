@@ -1,6 +1,7 @@
 Stream
 ======
 
++ **23 Apr** Elsa Walsh on [the 'good enough life'](http://www.washingtonpost.com/opinions/why-women-should-embrace-a-good-enough-life/2013/04/18/4b2b086c-a5db-11e2-a8e2-5b98cb59187f_print.html) - hell yes.
 + **22 Apr** Hey, Kentaro. If you read this, please be in touch! I'm [gwen@gwenbell.com](mailto:gwen@gwenbell.com).
 + **22 Apr** Holy bajillion new happenings!
 + **20 Apr** It's Spring in New York City. It's gorgeous, clear-skied and flowering.
