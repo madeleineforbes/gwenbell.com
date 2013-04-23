@@ -3,7 +3,7 @@ About
 
 I did everything I wanted to do before I turned thirty. I figured I'd die at thirty, like mom did. So, as the imaginary clock wound down, I lived and lived and lived.
 
-pI've attended a week long _sesshin_ in Shizuoka, Japan. I started my first business in Kiryu, and my second in Yokohama, Japan. Both yoga studios (Paper Tiger and Yoga Garden, respectively). The first above an _izakaya_, the second on Motomachi, a fancy shopping street. I co-founded not one, but two, Buddhist podcasts.
+I've attended a week long _sesshin_ in Shizuoka, Japan. I started my first business in Kiryu, and my second in Yokohama, Japan. Both yoga studios (Paper Tiger and Yoga Garden, respectively). The first above an _izakaya_, the second on Motomachi, a fancy shopping street. I co-founded not one, but two, Buddhist podcasts.
 
 I've watched a Berber woman be married, and learned Tashelheit from kids in the bled. I married a programmer, divorced a programmer, and then became a programmer. I've attended the funeral of a Japanese grandmother. I watched my first design firm, and my home, burn to the ground.
 
