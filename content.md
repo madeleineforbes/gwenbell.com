@@ -1,6 +1,7 @@
 Stream
 ======
 
++ **22 Apr** Hey, Kentaro. If you read this, please be in touch! I'm [gwen@gwenbell.com](mailto:gwen@gwenbell.com).
 + **22 Apr** Holy bajillion new happenings!
 + **20 Apr** It's Spring in New York City. It's gorgeous, clear-skied and flowering.
 + **19 Apr** Chills on chills. Wow, y'all.
