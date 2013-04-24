@@ -1,7 +1,7 @@
 Stream
 ======
 
-+ **24 Apr** Quick interview, hastebinned, a response to what I'd do if I were starting from scratch today. [Read it.](http://gwenbell.com:7799/qetefukina.md)
++ **24 Apr** Quick interview, hastebinned, a response to what I'd do if I started from scratch today. (The short answer is, I do.) [Read it. Before it disappears.](http://hastebin.gwenbell.com/qepaheqani.md)
 + **24 Apr** Note to self: _well, it's basically the same as an aborted fetus. Probably not even conscious!_ Is not a way to encourage someone who just discovered the world's tiniest dead baby bird.
 + **23 Apr** I just watched the first episode of The Wire. Ambivalent, but wanting to like it.
 + **23 Apr** News! Name change, cover update and three new pieces added. [Git Commit: Love on the Command Line](http://git.gwenbell.com). (Formerly Git for Publishers.) Now with more furry sex!
