@@ -1,6 +1,7 @@
 Brain Goop
 ==========
 
++ **25 Apr** New hastebin. [Notes on moving from addiction to freedom](http://hastebin.gwenbell.com/vujivaxata.md).
 + **25 Apr** Selling my [Leica](http://en.leica-camera.com/photography/compact_cameras/d-lux_5/). It's taken photos in Mexico, Seattle, San Francisco, Singapore, Japan, Berlin and New York City. Works a charm. Make an offer; I'm [gwen@gwenbell.com](mailto:gwen@gwenbell.com). I'll remove this note when sold.
 + **24 Apr** Note to self: _well, it's basically the same as an aborted fetus. Probably not even conscious!_ Is not a way to encourage someone who just discovered the world's tiniest dead baby bird.
 + **23 Apr** I just watched the first episode of The Wire. Ambivalent, but wanting to like it.
