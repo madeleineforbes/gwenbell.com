@@ -1,6 +1,7 @@
 Brain Goop
 ==========
 
++ **25 Apr** Reading [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
 + **25 Apr** Going through archives of just the last 3 years. Jesus Christ. I have written. 
 + **25 Apr** New hastebin. [Notes on moving from addiction to freedom](http://hastebin.gwenbell.com/vujivaxata.md).
 + **25 Apr** Selling my [Leica](http://en.leica-camera.com/photography/compact_cameras/d-lux_5/). It's taken photos in Mexico, Seattle, San Francisco, Singapore, Japan, Berlin and New York City. Works a charm. Make an offer; I'm [gwen@gwenbell.com](mailto:gwen@gwenbell.com). I'll remove this note when sold.
