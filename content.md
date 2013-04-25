@@ -1,9 +1,7 @@
-Technical Writing with a Quirky Edge
-====================================
+Brain Goop
+==========
 
-with Gwen Bell
---------------
-
++ **25 Apr** Selling my [Leica](http://en.leica-camera.com/photography/compact_cameras/d-lux_5/). It's taken photos in Mexico, Seattle, San Francisco, Singapore, Japan, Berlin and New York City. Works a charm. Make an offer; I'm [gwen@gwenbell.com](mailto:gwen@gwenbell.com). I'll remove this note when sold.
 + **24 Apr** Note to self: _well, it's basically the same as an aborted fetus. Probably not even conscious!_ Is not a way to encourage someone who just discovered the world's tiniest dead baby bird.
 + **23 Apr** I just watched the first episode of The Wire. Ambivalent, but wanting to like it.
 + **23 Apr** News! Name change, cover update and three new pieces added. [Git Commit: Love on the Command Line](http://git.gwenbell.com). (Formerly Git for Publishers.) Now with more furry sex!
