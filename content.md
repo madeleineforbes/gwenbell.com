@@ -1,6 +1,7 @@
 Brain Goop
 ==========
 
++ **26 Apr** The more distributed/decentralized, the more resilient - your work, the web. The inverse is also true.
 + **25 Apr** Reading [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
 + **25 Apr** Going through archives of just the last 3 years. Jesus Christ. I have written. 
 + **25 Apr** New hastebin. [Notes on moving from addiction to freedom](http://hastebin.gwenbell.com/vujivaxata.md).
