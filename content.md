@@ -1,7 +1,7 @@
 Gwen Bell
 =========
 
-<mark>Current • 27 Apr 1:34p Bed-Stuy NYC • Photoshop, espresso and Jay Z.</mark>
+<mark>Current • 27 Apr 7:28p Bed-Stuy NYC • Walked all day, came back, astral planked and tightened up [about](http://gwenbell.com/about).</mark>
 
 
 I taught myself to code in 2004. I lived in Kiryu-shi, Japan, at the time. I was a full-time teacher at Yamamae Shōgakkō, and I loved the work. I also wanted to extend myself, to try something harder than teaching the Apples and Bananas song. I was frustrated with the limitations of LiveJournal, and wanted to create my own site, from scratch. So I taught myself to code.
