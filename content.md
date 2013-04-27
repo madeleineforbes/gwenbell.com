@@ -1,9 +1,8 @@
 Gwen Bell
 =========
 
-<img src="images/dark-flowers.jpg" width="100%" style="border: 1px solid #ccc; padding: 4px;">
+<mark>Current • 27 Apr 1:34p Bed-Stuy NYC • Photoshop, espresso and Jay Z.</mark>
 
-<mark>Current</mark> • 27 Apr 8:44a Bed-Stuy NYC | Getting down the bones. I choose to shape what comes next.
 
 I taught myself to code in 2004. I lived in Kiryu-shi, Japan, at the time. I was a full-time teacher at Yamamae Shōgakkō, and I loved the work. I also wanted to extend myself, to try something harder than teaching the Apples and Bananas song. I was frustrated with the limitations of LiveJournal, and wanted to create my own site, from scratch. So I taught myself to code.
 
