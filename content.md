@@ -1,9 +1,8 @@
 Gwen Bell
 =========
 
-<mark>Current • 28 Apr 10:33a Bed-Stuy NYC • You know what's fracking exciting? Witnessing the plunge!</mark>
-
-[Madeleine Forbes](http://madeleineforbes.co.uk/) published this to her new site on 18 April 2013.
+<div class="mark">Current • 28 Apr 10:33a Bed-Stuy NYC • You know what's fracking exciting? Witnessing the plunge! [Madeleine Forbes](http://madeleineforbes.co.uk/) read Git Commit and published this to her new site, 18 April 2013.
+</div>
 
 <blockquote>
 <p>Today I erased it all and started again. Deleted the whole caboodle, actually, thanks to Gwen Bell who somehow encouraged me to the very edge of the safe rubber dinghy that is blogging on a platform like Wordpress.</p>
@@ -23,7 +22,7 @@ Gwen Bell
 <p>You see, I'm going to learn to swim.</p>
 </blockquote> 
 
-[Madeleine. Happy swimming. PS: I reckon if they start throwing bitcoins at you, you're doing it right! *chuckle* -g]
+Madeleine. Happy swimming. PS: I reckon if they start throwing bitcoins at you, you're doing it right! *chuckle* -g
 
 <hr />
 
