@@ -1,8 +1,9 @@
 Gwen Bell
 =========
 
-<div class="mark">28 Apr 10:33a Bed-Stuy NYC • You know what's fracking exciting? Witnessing the plunge! [Madeleine Forbes](http://madeleineforbes.co.uk/) read Git Commit and published about it to her new site. Read her [response](http://gwenbell.com/responses).</div>
+<div class="mark">28 April 2013, St Marks NYC. You know what? Hard coded routes, done. Nohuping out almost but not quite. Navigating to a destination with no phone in a city of millions, done. 2 out of 3 ain't bad.</div>
 
+  + 28 Apr • You know what's fracking exciting? Witnessing the plunge! [Madeleine Forbes](http://madeleineforbes.co.uk/) read Git Commit and published about it to her new site. Read her [response](http://gwenbell.com/responses).
   + 26 Apr • Hey, MF. You were totally right about The Wire. As of first 30 seconds of second episode, I am hooked.
   + 26 Apr • The more distributed/decentralized, the more resilient - your work, the web. The inverse is also true.
   + 25 Apr • Reading [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
