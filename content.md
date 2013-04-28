@@ -1,30 +1,18 @@
 Gwen Bell
 =========
 
-<div class="mark">Current • 28 Apr 10:33a Bed-Stuy NYC • You know what's fracking exciting? Witnessing the plunge! [Madeleine Forbes](http://madeleineforbes.co.uk/) read Git Commit and published this to her new site, 18 April 2013.
-</div>
+<div class="mark">28 Apr 10:33a Bed-Stuy NYC • You know what's fracking exciting? Witnessing the plunge! [Madeleine Forbes](http://madeleineforbes.co.uk/) read Git Commit and published about it to her new site. Read her [response](http://gwenbell.com/responses).</div>
 
-<blockquote>
-<p>Today I erased it all and started again. Deleted the whole caboodle, actually, thanks to Gwen Bell who somehow encouraged me to the very edge of the safe rubber dinghy that is blogging on a platform like Wordpress.</p>
-
-<p>"I can't do it!" I said. "It's frightening! I'm a writer, a thinker, not some kind of tech-y code-y person who builds websites! All the Internet People will sense that and find out and judge me and be angry and throw bitcoins at me!"</p>
-
-<p>Anyway, I scooched over to the edge of the rubber dinghy, and then I was like, "OK, this is nice. The water looks pretty good from here, especially because I know I don't have to be down with the cold and the seaweed and the sharks."</p>
-
-<p>"How about I sit on the edge and just dangle my feet in the water of building my own website and still keep my Wordpress blog on the side. Besta both worlds, ya nada?"</p>
-
-<p>But the water did look good, and it felt good too. There's something about wild swimming. You can't see the bottom, there are currents and rocks and you have to share the water with all kind of unknown critters. But if you've only ever swum in a pool filled with chlorine, policed by lifeguards with whistles, in goggles and a stretchy swimsuit, you haven't really swum. You've gotta dive into the freezing water stark naked and watch leaves floating by and get scared when you put your foot on something squishy. I'm starting to feel like it's a little bit the same with the internet.</p>
-
-<p>I dunno, maybe I'm not as scared as I think I am most of the time. Or I have some kind of inner ninja who comes out when the real me's busy being neurotic somewhere else. Anyway I jumped. Deleted the whole damn thing with its admin passwords and meta tags and drafts and comments, all that fancy shizzle. I built this site on Twitter Bootstrap which is, where am I now with these metaphors, a life jacket? A float? Something.</p>
-
-<p>"It's just you and me now, website" I said to my website on this sunny Cambridge afternoon, in the quiet of the library, watching the shadows from the history faculty lengthen towards the lawn.</p>
-
-<p>You see, I'm going to learn to swim.</p>
-</blockquote> 
-
-Madeleine. Happy swimming. PS: I reckon if they start throwing bitcoins at you, you're doing it right! *chuckle* -g
+  + 26 Apr • Hey, MF. You were totally right about The Wire. As of first 30 seconds of second episode, I am hooked.
+  + 26 Apr • The more distributed/decentralized, the more resilient - your work, the web. The inverse is also true.
+  + 25 Apr • Reading [The Great Donut](http://hastebin.evbogue.com/jifowufuke.md) by Seth Godin
+  + 25 Apr • Going through archives of just the last 3 years. Jesus Christ. I have written. 
+  + 25 Apr • New hastebin. [Notes on moving from addiction to freedom](http://hastebin.gwenbell.com/vujivaxata.md).
 
 <hr />
+
+What I'm Working on and Why
+---------------------------
 
 I taught myself to code in 2004. I lived in Kiryu-shi, Japan, at the time. I was a full-time teacher at Yamamae Shōgakkō, and I loved the work. I also wanted to extend myself, to try something harder than teaching the Apples and Bananas song. I was frustrated with the limitations of LiveJournal, and wanted to create my own site, from scratch. So I taught myself to code.
 
