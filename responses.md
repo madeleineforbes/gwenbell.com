@@ -1,5 +1,5 @@
 Reader Responses
-================
+----------------
 
 Today I erased it all and started again. Deleted the whole caboodle, actually, thanks to Gwen Bell who somehow encouraged me to the very edge of the safe rubber dinghy that is blogging on a platform like Wordpress.
 
