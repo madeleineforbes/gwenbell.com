@@ -14,3 +14,7 @@ exports.about = function(req, res){
 exports.responses = function(req, res){
 res.render('responses', { title: 'Reader Responses'});
 };
+
+exports.responses = function(req, res){
+res.render('responses', { title: 'Motherless Daughters'});
+};
