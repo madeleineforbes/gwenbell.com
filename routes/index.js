@@ -15,6 +15,6 @@ exports.responses = function(req, res){
 res.render('responses', { title: 'Reader Responses'});
 };
 
-exports.responses = function(req, res){
-res.render('responses', { title: 'Motherless Daughters'});
+exports.motherlessdaughters = function(req, res){
+res.render('motherlessdaughters', { title: 'Motherless Daughters'});
 };
