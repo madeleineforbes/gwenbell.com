@@ -17,7 +17,9 @@ So if your mom died when you were a kid like me, or if she's dying now, which...
 
 I'll just tell you what I know in no particular order.
 
-Gwen
-29 April 2013
-Brooklyn, New York
-Sound of the drier drying
+Gwen <br />
+29 April 2013 <br />
+Brooklyn, New York <br />
+Sound of the dryer drying <br />
+
+<hr />
