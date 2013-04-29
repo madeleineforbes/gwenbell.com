@@ -3,6 +3,8 @@ About
 
 <blockquote>What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed, whatever years behind us are in death's hands. - Seneca </blockquote>
 
+<blockquote>Bitch I hustle every day, you could check my resumé. - A$AP Rocky</blockquote>
+
 I did everything I wanted to do before I turned thirty (I am now thirty-one). From the time I was eleven, I figured I'd die at thirty, as my mom did. While the imaginary clock wound down, I lived and lived and lived. To this day, I live and live and live. I consider all this bonus life.
 
 I've attended a week long _sesshin_ in Shizuoka, Japan. I started my first business in Kiryu, and my second in Yokohama, Japan. Both yoga studios (Paper Tiger and Yoga Garden, respectively). The first above an _izakaya_, the second on Motomachi, a fancy shopping street. I co-founded not one, but two, Buddhist podcasts.
