@@ -74,3 +74,39 @@ Brooklyn, New York <br />
 Café Bustelo in a lime green mug <br />
 
 <hr />
+
+Letter to my younger self (v1)
+------------------------------
+
+This week I finished reading <em>What I Know Now</em>, a gorgeous book (it's more than a book, really...it's more of a stage for the women that share their stories) that showcases letters from women later in their lives to themselves as young women.  Women like Queen Noor and Vanna White share wisdom with their younger selves.  I found myself jotting notes and nodding in appreciation at the way these women have figured out how to mother themselves, whether or not they had a mom around to help.
+
+As I read, I felt surrounded by kindred spirits.  I felt acutely aware of the fact that I was in good company.  That trusting my gut and working from there was the only way to engage this world.
+
+Marilyn Carlson Nelson wraps up her letter to herself saying, "So you see, Marilyn, in the end you weren't really dreaming about titles or positions or even about being a wife or a mother.  Rather, you were dreaming about living the life that would complete you-- one of purpose and passion and always with the intention to make a difference."  
+
+That paragraph resonated deeply with me...deep enough to inspire me to write my own letter to my younger self (at age eleven when she died).  I didn't intend to share it with such a wide audience but think it may help someone out there who has struggled or is struggling with some of these life elements.
+
+
+_Gwendolyn_,
+
+The nightmares will end soon enough.  You will make it through and nobody else will die for a while.  The recurring nightmare where ninjas come and silently kill everyone in your family...it will end in a few years and nobody else will die.  You will stop waking up unable to speak.
+
+Right now you're pretty scared.  You think things will fall apart now that mom isn't around to keep them together.  You think you can hold them together but you're young...do the things that you love now.  Try to enjoy planting sunflowers with Mr. Allen's sixth grade class.  Be brave, but be gentle.
+
+That's what's going to get you through, baby:  gentleness.  Court dates, meeting your father for the first time, watching your half siblings leave home, losing your step-father's side of the family, your grandparents becoming your caretakers.  All of these things you're dealing with right now, you're brave about.  I'm proud of you.  You're going to get through with flying colors.  You grow up all at once, but you can slow down, too.
+
+You'll go on to graduate at the top of your class, you'll attend an amazing university and meet the first man in your life that will love you beyond what you thought possible.  He'll tell you (rightly) your mom is a "cross you bear" and play you an acoustic song he wrote to honor you and your mom.  Heart open, you'll go to therapy, meditate your way to a place of peace about her death.  You'll start exploring the wounds of your youth with tenderness...wonder if they'll ever heal.  They will.
+
+You're going to travel, to see the world, to teach and start businesses abroad.  You'll do so much more by the time you're twenty-five than most people do in a lifetime.  You realize you can't take even one moment in a life for granted.
+
+But will you remember to breathe, Gwen?  Can you, right now, holding this letter?  Breathe and relax.  Know that it's okay to cry and ask for help.  People will help you with their whole hearts if you let them.  I promise.
+
+You're going to be independent.  You'll speak languages that few people in the world even know exist.  But for now, remember to have fun with yourself:  sing more, color more, dance more.  Don't expect anyone to understand completely; forgive them when they don't.
+
+Above all, open to the grace within you.  Know that moving from your heart center you can accomplish anything.  And that accomplishing things isn't what it's about.  Loving is.  Love yourself, love others.  More than anything, allow yourself to be loved.
+
+I love you,  <br />
+You at twenty-six<br />
+22 May 2008 <br />
+
+<hr />
