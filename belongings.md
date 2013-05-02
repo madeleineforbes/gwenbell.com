@@ -47,10 +47,8 @@ I don't skimp on my body. I get my teeth checked every 6 to 8 months, I lengthen
 
 + Bronners. I use it for everything - body, house cleaning, clothes cleaning. I'd drink it in a pinch. Though, that's [not recommended](http://brokelyn.com/tested-the-crazy-alleged-uses-of-dr-bronners-soap/) by Brokelyn.
 
++ [Kimono](http://www.kimono-condoms.com/) Bill Gates is [requesting help](http://www.washingtontimes.com/news/2013/mar/24/bill-gates-offers-100000-grant-improved-condoms/print/) from entrepreneurs to help make a better condom. I bet that'll take a little time. In the meantime, you'd do well to switch to Kimonos. The blue box.-
+
 + Glasses. I have an astigmatism and am near sighted. I've worn some sort of sight extender since third grade. I gave up on contacts in 2012 and now wear glasses. Or, I walk around blindish with my glasses hanging off my jacket. I've though about Lasik but value my sight too much to put it in any jeopary, even a tiny tiny tiny bit of jeopary is too much risk to me.
 
 + Sonicare toothbrush. Invest in your teeth and gums, you don't want to have to replace them.
-
-+ [Kimono](http://www.kimono-condoms.com/) Bill Gates is [requesting help](http://www.washingtontimes.com/news/2013/mar/24/bill-gates-offers-100000-grant-improved-condoms/print/) from entrepreneurs to help make a better condom. I bet that'll take a little time. In the meantime, you'd do well to switch to Kimonos. The blue box.-
-
-If you have a specific question about something I've mentioned in the past but no longer list here, [email me](mailto:gwen@gwenbell.com). I'll add it if it's something I still use.

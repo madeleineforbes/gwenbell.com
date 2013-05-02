@@ -22,3 +22,7 @@ res.render('writing', { title: 'Writing'});
 exports.motherlessdaughters = function(req, res){
 res.render('motherlessdaughters', { title: 'Motherless Daughters'});
 };
+
+exports.belongings = function(req, res){
+res.render('belongings', { title: 'Belongings'});
+};
