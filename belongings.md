@@ -1,6 +1,12 @@
 Belongings
 ==========
 
+2 May 2013 • In a recent in person meeting, someone asked if I'd be willing to bring back my belongings list. I didn't realize until then how inspirational people (or at least a person!) find(s) it. I brought it back at her request.
+
+Things you should know going in. *1* I'm not compensated when you buy things on the list. For now, my brand reppin' for cash days are over. *2* If that status changes, I'll be explicit in telling you. *3* I don't own a storage unit. 
+
+<hr />
+
 I've lived with little for years, inspired by the only book on simplicity I recommend, Duane Elgin's [Voluntary Simplicity](http://www.amazon.co.uk/Voluntary-Simplicity-Duane-Elgin/dp/0688121195). 
 
 I read Elgin's book with my legs up the wall in a tiny dorm room at the University of East Anglia, in Norwich, England. I'm always surprised when I meet someone who even knows where that is, let alone has been there. 
@@ -9,12 +15,7 @@ I already lived with few belongings, though I now reflect on myself back then an
 
 During the nearly four years I lived in Japan I learned to appreciate the _chibi kawaii_, small and cute, way of living. I believe a few small, but beautifully crafted, items can last a lifetime.
 
-About this list
----------------
-
-I'm not compensated when you buy things on the list. For now, my brand reppin' for cash days are over. If that changes, I'll let you know in an explicit way.
-
-I do not own a storage unit. This list is it.
+<hr />
 
 Hardware
 --------
@@ -41,6 +42,8 @@ Clothes. I have a couple of outfits I wear on repeat. By couple, I mean three. I
 
 Shoes. Right now I own one pair of shoes. Black Chucks, high top. I've worn Vibrams, but I looked like such a freak I couldn't get down the street without someone asking what was on my feet. I do too much work to be having that conversation all the time. I am open to ideas on the shoe front - you find some good ones - black or dark grey - hollah.
 
+<hr />
+
 Wetware
 -------
 
@@ -57,3 +60,5 @@ Bronners. I use it for everything - body, house cleaning, clothes cleaning. I'd 
 Glasses. I have an astigmatism and am near sighted. I've worn some sort of sight extender since third grade. I gave up on contacts in 2012 and now wear glasses. Or, I walk around blindish with my glasses hanging off my jacket. I've though about Lasik but value my sight too much to put it in any jeopary, even a tiny tiny tiny bit of jeopary is too much risk to me.
 
 Sonicare toothbrush. Invest in your teeth and gums, you don't want to have to replace them.
+
+<hr />
