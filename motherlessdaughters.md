@@ -24,6 +24,24 @@ Sound of the dryer drying <br />
 
 <hr />
 
+30 Apr 2013 Letter from [Satya Khan](http://systemlover.com) 
+
+_Gwen,_
+
+_Your post reminded me of one I wrote when my mom was dying in January. I'm sorry you lost her. It's awful._ 
+
+_Satya_ 
+
+_57: The Way Out_
+
+_The fabric of her body is wearing thin. The doctors have many terms to describe her condition, but I hang on only one: hospice. We all want for her to go home._ 
+
+_She's still there when I look into her eyes. I saw the impact in them when they said they're out of options. After that we got some lunch; my dad, my brother, and I. The soon to be survivors, feeling our way without her. I stared so hard into my bowl I saw the lettuce wilt._ 
+
+_Back outside my mother's room, the chaplain crept up, asking if we follow a religion. My dad blew her off with a laugh, black and short. We have our own system, he said. A system lover, like me._ 
+
+<hr />
+
 Letter to my younger self (v2)
 ------------------------------
 
