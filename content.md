@@ -1,7 +1,8 @@
 Gwen Bell
 =========
 
-  + 1 May • May. Yay! Went to Mr Kiwis and stocked up and then drank the most amazing kale, lemon, ginger, celery mix of all time. With paprika on top!
+  + 2 May • Just added Day 4 on the command line to [Git Commit](http://git.gwenbell.com/) - what to do when you're overwhelmed in there. That, plus espresso. Mmyeah.
+  + 1 May • May. Yay! Went to Mr Kiwis and stocked up and then drank the most amazing lemon, ginger, celery mix of all time. With paprika on top!
   + 30 Apr • Day two of your 30 days on the command line. In your copy of [Git Commit](http://git.gwenbell.com) now.
   + 29 Apr • Oh, snap! What's that sound? That's the sound of brand new bottom nav. Yes, yes y'all. Just don't click on writing. Yet.
   + 29 Apr • Here's a new route: [Motherless Daughters](http://gwenbell.com/motherlessdaughters). Just in time for mother's day, that day that if you don't have one might make you want to punch something in the face. Or, y'know. Cry.
