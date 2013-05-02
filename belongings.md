@@ -1,9 +1,13 @@
 Belongings
 ==========
 
-2 May 2013 • In a recent in person meeting, someone asked if I'd be willing to bring back my belongings list. I didn't realize until then how inspirational people (or at least a person!) find(s) it. I brought it back at her request.
+2 May 2013 • In a recent in person, someone asked if I'd be willing to bring back my belongings list. I didn't realize until then how inspirational people (or a person!) find(s) it. I brought it back at her request.
 
-Things you should know going in. *1* I'm not compensated when you buy things on the list. For now, my brand reppin' for cash days are over. *2* If that status changes, I'll be explicit in telling you. *3* I don't own a storage unit. 
+I'm now based in Brooklyn, New York, so in addition to what's on this list, I have two blankets, some sheets and a mattress. I also have several tall white candles.
+
++ **1** I'm not compensated when you buy things on the list. For now, my brand reppin' for cash days are over. 
++ **2** If that status changes, I'll be explicit in telling you. 
++ **3** I don't own a storage unit. 
 
 <hr />
 
@@ -20,7 +24,7 @@ During the nearly four years I lived in Japan I learned to appreciate the _chibi
 Hardware
 --------
 
-Everything I own fits in this [Mission Workshop](http://missionworkshop.com/products/advanced_projects/vx-rucksack.php) bag. Nope, I don't rent a storage unit anywhere. Bonus. If you're in SF talk with Morgan. Tell him Gwen says hey and I actually did the RTW thing out of the bag he sold me.
+When I travel, everything I own fits in this [Mission Workshop](http://missionworkshop.com/products/advanced_projects/vx-rucksack.php) bag.
 
 [Outlier](http://outlier.cc/). US-based company making the best pants I've ever owned. Abe, the CEO, actually responded personally when I pitched him on a crazy idea from Singapore. In March 2013, I went to his offices to thank him in person upon arriving in Brooklyn.
 
