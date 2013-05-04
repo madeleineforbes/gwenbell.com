@@ -55,7 +55,7 @@ Hard. As all things worth doing are. We ran the studio for seven years. It was a
 
 Right. In 2007. Here's a photo of the MacBook that made it out. I took the pic the morning after the fire. I was staying in a motel provided by the Red Cross. This laptop belonged to the girl who left the candle burning.
 
-<img src="macbook-after-fire.jpg" width="100%" style="border: 1px solid #ccc; padding: 4px;">
+<img src="images/macbook-after-fire.jpg" width="100%" style="border: 1px solid #ccc; padding: 4px;">
 
 True story: they got the hard drive off it, no data loss. 
 
