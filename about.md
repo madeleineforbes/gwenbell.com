@@ -131,7 +131,11 @@ You know, you're probably right. Right now, the biggest thing is the distributed
 
 I love this work. I love this city. Had to go through the shitter to get here, but maybe that's the point of being human. 
 
-Or, as my sixth grade teacher Mr. Allen put it to us: kids, you're Americans. That means you gotta live, die and pay taxes. What you do with yourself in the meantime is entirely up to you.
+As my sixth grade teacher Mr. Allen put it: kids, we're Americans. That means we gotta live, die and pay taxes. What we do with ourselves in the meantime is entirely up to us.
+
+I heard later they fired him. But he was a damn good sixth grade teacher. 
+
+Straight shooter, that one.
 
 <hr />
 
@@ -139,19 +143,23 @@ Or, as my sixth grade teacher Mr. Allen put it to us: kids, you're Americans. Th
 
 I hand-built this site from scratch. It's an instance of [Bitters](http://bitters.gwenbell.com). It's Node.js, markdown, Jade and Stylus. I host it on a VPS and commit it to [Git](http://github.com/gwenbell).
 		
-I try to balance responding to messages with creating new work on the command line and in my writing. Sometimes a message turns into fodder for the work, which I always appreciate.
-
 ##How can I get in touch?
 
-If you send me your life story and I have a dozen items plus to do that day, I might skim it. If you want to book me for consulting or speaking or anything weird please give me the wh's [gwen@ gwenbell.com](mailto:gwen@gwenbell.com). If you don't expect a response, please write NRN in closing. If you have a specific request, I ask that you front-load it, rather than burying it or tucking it in a postscript. Please don't send praise - instead, tell the lady in front of you in the checkout line how that color blue in her top really brings out her eyes.
+I try to balance responding to messages with creating new work on the command line and in my writing. Sometimes a message turns into fodder for the work, which I always appreciate.
 
-##Who else engages in this work?
+If you send me your life story and I have a dozen items plus to do that day, I might skim it. If you want to book me for a one on one or anything weird please give me the wh's [gwen@ gwenbell.com](mailto:gwen@gwenbell.com). If you don't expect a response, please write NRN in closing. 
 
-A writer isn't a writer without readers. All kinds of people all over the world engage with my work. Sometimes I meet them in person! And I'm always touched and blown away at the way my work in the world impacts theirs. Some of them share [their stories here](http://gwenbell.com/responses).
+If you have a specific request, I ask that you front-load it, rather than burying it or tucking it in a postscript. Please don't send praise - instead, tell the lady in front of you in the checkout line how that color blue in her top really brings out her eyes.
+
+##Who else is here with me?
+
+A writer isn't a writer without readers. All kinds of people all over the world read and buy my work. Some of them share [their stories here](http://gwenbell.com/responses).
 
 ##How can I contribute?
 
-I am an engineer. I am in the machine every day. One thing that means is I run this site on the command line. If you see an error, as you likely will, please [submit a pull request](https://github.com/gwenbell). If you can't submit a pull request, hmm. Ok. You have to start somewhere. You can start by <a href="http://git.gwenbell.com">learning Git</a>.
+I'm a writer and an engineer. I am in the machine every day. One thing that means is I run this site on the command line. If you see an error, as you likely will, please [submit a pull request](https://github.com/gwenbell). 
+
+If you can't submit a pull request, yet, hmm. Ok. You have to start somewhere. You can start by <a href="http://git.gwenbell.com">learning Git</a>.
 
 <img src="images/bell-on-green.jpg", width="100%" style="border: 1px solid #ccc; padding: 4px;">
 
