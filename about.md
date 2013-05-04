@@ -139,6 +139,10 @@ Straight shooter, that one.
 
 **Wait. So, what are you working on right now?**
 
+I spend every single day on the command line. When I'm not on the command line merging pull requests and pushing to master, I write. When I'm not writing or programming, I walk around New York City and talk to strangers. When not doing that, I take long baths, eat donuts, have wild sex and sleep when I'm tired.
+
+[Anything else?](https://github.com/gwenbell/gwenbell.com/pulls)
+
 <hr />
 
 ##What is this site?
