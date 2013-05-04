@@ -4,7 +4,7 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Gwen Bell • Technical Writing & Web Debauchery' });
+  res.render('index', { title: 'Gwen Bell • Engineer the Web You Want' });
 };
 
 exports.about = function(req, res){
