@@ -1,6 +1,7 @@
 Gwen Bell
 =========
   
+  + 4 May • [Fresh interview](http://gwenbell.com/about). On. Well, loads. On losing Twilight Imperium, and paging all the way back to Japan.
   + 3 May • Day so full I can't even remember how it started. Except, I do remember big hugs in the living room.
   + 2 May • Just added Day 4 on the command line to [Git Commit](http://git.gwenbell.com/) - what to do when you're overwhelmed in there. That, plus espresso. Mmyeah.
   + 1 May • May. Yay! Went to Mr Kiwis and stocked up and then drank the most amazing lemon, ginger, celery mix of all time. With paprika on top!

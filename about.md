@@ -129,9 +129,9 @@ You have no idea. I think it was a sonuvabitch move but yo. I learned a lot. And
 
 You know, you're probably right. Right now, the biggest thing is the distributed web. For me, that's meant learning and now [teaching Git](http://git.gwenbell.com). And, [building Bitters](http://bitters.gwenbell.com). 
 
-I love this work. I love this city. 
+I love this work. I love this city. Had to go through the shitter to get here, but maybe that's the point of being human. 
 
-I had to go through the shitter to get here, but maybe that's the point of being human.
+Or, as my sixth grade teacher Mr. Allen put it to us: kids, you're Americans. That means you gotta live, die and pay taxes. What you do with yourself in the meantime is entirely up to you.
 
 <hr />
 
