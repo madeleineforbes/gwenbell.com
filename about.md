@@ -137,6 +137,8 @@ I heard later they fired him. But he was a damn good sixth grade teacher.
 
 Straight shooter, that one.
 
+**Wait. So, what are you working on right now?**
+
 <hr />
 
 ##What is this site?
