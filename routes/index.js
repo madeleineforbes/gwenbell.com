@@ -19,8 +19,8 @@ exports.writing = function(req, res){
 res.render('writing', { title: 'Writing'});
 };
 
-exports.motherlessdaughters = function(req, res){
-res.render('motherlessdaughters', { title: 'Motherless Daughters'});
+exports.deadpeople = function(req, res){
+res.render('deadpeople', { title: 'Dead People'});
 };
 
 exports.belongings = function(req, res){
