@@ -30,7 +30,7 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index);
 app.get('/about', routes.about);
 app.get('/responses', routes.responses);
-app.get('/motherlessdaughters', routes.motherlessdaughters);
+app.get('/deadpeople', routes.deadpeople);
 app.get('/writing', routes.writing);
 app.get('/belongings', routes.belongings);
 app.get('*', routes.index);
