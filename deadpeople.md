@@ -1,11 +1,13 @@
-Motherless Daughters
-====================
+Dead People
+===========
+
+I don't think I'll ever make a dime writing about death or dead people, but I love writing about and talking with them. That's what this new Bitters route is for. The dead who live among us. Just because you're not talking with them too doesn't mean they aren't here.
+
+<hr />
 
 That holyfuckinshit moment when you find out your mom is dead. That moment never fades.
 
 Maybe it will for you, but in twenty years, it has not for me.
-
-I'm writing this section because I know there are some of you out there who are, like me, not only motherless, but fatherless. You've gone your whole life feeling your way without a parent. Maybe, like me, you were also blessed with a pair of grandparents. A pair that, should either of them die, you will throw yourself into the grave with. I'm talking about that kind of love. I'm talking about that kind of ferocity.
 
 I'm known to delete things. And I can't say I won't ever ragequit this section, but it seems right to me now. To tell you things about being a motherless daughter. Even though I am also a fatherless daughter, it was mom's absence - the impact of her death took years to absorb.
 
