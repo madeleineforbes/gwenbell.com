@@ -41,7 +41,7 @@ Mmhmm, well alright.
 
 Well, I just learned her social security number.
 
-Well, honey, I don't even think I know her social security number.
+Well, honey, I don't even think _I_ know her social security number.
 
 <hr />
 
@@ -59,9 +59,9 @@ I know that is true.
 
 <hr />
 
-There's another stretch of time, besides the time between her death and his parental rights termination. The cause of death is asked. There are all sorts of other questions, but under 'Due to or as a consequence of' there's Hodgkins Disease, which they don't know but I do, started as a lump in her neck. And next to that, approximate interval between onset and death: 5 years.
+The cause of death is asked. There are all sorts of other questions, but under 'Due to or as a consequence of' there's Hodgkins Disease, which they don't know but I do, started as a lump in her neck. And next to that, approximate interval between onset and death: 5 years.
 
-There's no question about how much money was in her bank account. There's no question about how much cash was in her wallet. There's no question about was her inbox at zero. There's no question about was there just this one last thing she wanted to get done real quick before we print this sucker out?
+There is no question about how much money was in her bank account. There is no question about how much cash was in her wallet. There is no question about was her inbox at zero. There is no question about was there just this one last thing she wanted to get done real quick before we print this sucker out?
 
 In death, we become one piece of paper, a single entry in the register of deeds. 
 
