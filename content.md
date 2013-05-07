@@ -1,6 +1,7 @@
 Gwen Bell
 =========
   
+  + 6 May • Experimenting with this [Twitter thing](https://twitter.com/gwenbell).
   + 4 May • [Your daily command line task, now in Git Commit](http://git.gwenbell.com)
   + 4 May • [New interview](http://gwenbell.com/about). On. Well, loads. All the things that make me squirm. Losing Twilight Imperium, and the path to becoming an engineer.
   + 3 May • Day so full I can't even remember how it started. Except, I do remember big hugs in the living room.
