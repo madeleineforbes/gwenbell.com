@@ -10,3 +10,4 @@ Gwen Bell
 
 <hr />
 
+<a href="http://git.gwenbell.com"><img src="/images/git-commit-cover.jpg" width="100%", style="border: 1px solid #ccc" padding="4px"></a>
