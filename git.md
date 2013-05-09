@@ -7,23 +7,23 @@ We're both engineers, though he did his work AFK. He never used a computer for w
 
 The engineering break room was long and narrow with a bed in the back against the wall. There was a pinup calendar with voluptuous women in tiny outfits in front of motorcycles. The room smelled of tools, of grease and of men, since those were the only things in there most of the time.
 
-I actually hated hospitals is the thing. I didn't want to be in the hospital itself, because that's the place my mom spent a lot of her five years dying. And I suppose I still haven't completely forgiven the doctors in the hospital, which was where my grandfather also worked, for saving her.
+I actually hated hospitals is the thing. I didn't want to be in the hospital itself, because that's the place my mom spent a lot of her five years dying. I suppose I still haven't completely forgiven the doctors in the hospital, which was where my grandfather also the same hospital in which he worked, for saving her.
 
-Anyway, we're talking engineering. So let me tell you about Bub's shift. The thing is. When I called him to remind him of how I loved going into work with him, he didn't start reflecting back what I was expecting to hear. He said
+Anyway, engineering. Bub's shift. The thing is. When I called him to remind him of how I loved going into work with him, he didn't start reflecting back what I was expecting to hear. He said
 
-Honey, you remember when you wanted to take a shower out there after the hurricane?
+_Honey, you remember when you wanted to take a shower out there after the hurricane?_
 
-No, what do you mean take a shower? At the hospital?
+_No, what do you mean take a shower? At the hospital?_
 
-Mmhmm, right. I took you in there in the Renault and you remember that curve at the KOA, a tree came right in through the windshield. Whole tree branch.
+_Mmhmm, right. I took you in there in the Renault and you remember that curve at the KOA, a tree came right in through the windshield. Whole tree branch._
 
-OhmygodBub. I could have died!
+_OhmygodBub. I could have died!_
 
-Sure right you could have. Nearly got your face, I... (and he paused there and I felt his love for me and I'm even tearing up as I write this) You don't remember that?
+_Sure right you could have. Nearly got your face, I... (he trails) You don't remember that?_
 
-Well, huh. Yeah, no. I guess I don't.
+_Well, huh. Yeah, no. I guess I don't._
 
-Well, we turned back and got a different car. And then I got that generator so you could take showers. Yup, sure did.
+_Well, we turned back and got a different car. And then I got that generator so you could take showers. Yup, sure did._
 
 <br /> 
 
@@ -47,9 +47,9 @@ I like to imagine I think more like Bub.
 
 Before we hung up the call I said
 
-Hey Bub, listen. I don't think I've ever really told you this, but I respect the work you've done. Thank you for showing me how I could become an engineer.
+_Hey Bub, listen. I don't think I've ever really told you this, but I respect the work you've done. Thank you for showing me how I could become an engineer._
 
-Mmhmm, well, alright honey. Call your grandmother, she's over at Et's.
+_Mmhmm, well, alright honey. Call your grandmother, she's over at Et's._
 
 _Gwen_ <br />
 _9 May 2013_ <br />
