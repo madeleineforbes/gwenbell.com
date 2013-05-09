@@ -11,6 +11,10 @@ exports.about = function(req, res){
 	res.render('about', { title: 'About Gwen Bell'});
 };
 
+exports.git = function(req, res){
+	res.render('git', { title: 'Git'});
+};
+
 exports.responses = function(req, res){
 res.render('responses', { title: 'Reader Responses'});
 };
