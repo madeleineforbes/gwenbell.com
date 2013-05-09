@@ -9,7 +9,7 @@ We're both engineers, though he did his work AFK. He never used a computer for w
 
 The engineering break room was long and narrow with a bed in the back against the wall. There was a pinup calendar with voluptuous women in tiny outfits in front of motorcycles. The room smelled of tools, of grease and of men, since those were the only things in there most of the time.
 
-I actually hated hospitals is the thing. I didn't want to be in the hospital itself, because that's the place my mom spent a lot of her five years dying. I suppose I still haven't completely forgiven the doctors in the hospital, which was where my grandfather also the same hospital in which he worked, for saving her.
+I actually hated hospitals is the thing. I didn't want to be in the hospital itself, because it was the same place my mom spent a lot of her five years dying.
 
 Anyway, engineering. Bub's shift. The thing is. When I called him to remind him of how I loved going into work with him, he didn't start reflecting back what I was expecting to hear. He said
 
