@@ -1,6 +1,8 @@
 Gwen Bell
 =========
-  
+
+  + 9 May • Y'all are into this [Gittip](http://gittip.com/gwenbell) thing, hey? Me, too. Like to think of it as a Distributed Genius Grants. Added some prizes.
+  + 9 May • Turns out, I'm enjoying [Twitter](https://twitter.com/gwenbell). Guess I just needed a two year break to think.
   + 6 May • Experimenting with this [Twitter thing](https://twitter.com/gwenbell).
   + 4 May • [Your daily command line task, now in Git Commit](http://git.gwenbell.com)
   + 4 May • [New interview](http://gwenbell.com/about). On. Well, loads. All the things that make me squirm. Losing Twilight Imperium, and the path to becoming an engineer.
