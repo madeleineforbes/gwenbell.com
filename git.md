@@ -1,6 +1,8 @@
 Git
 ===
 
+###An Engineer Like You
+
 Last week I called my grandfather, whom I call Bub. I called Bub to remind him of when I was little and I'd beg to go with him to the hospital. Bub worked shift work his whole life, and most of the time I knew him growing up, he did the shift work in a hospital. 
 
 We're both engineers, though he did his work AFK. He never used a computer for work, but he did have a man cave he'd go into when he got to the hospital to start his shift, and that was one of the things I liked best about it. That there was this secret place in this ginormous hospital where he, and sometimes I, could go hide out. 
@@ -25,7 +27,7 @@ _Well, huh. Yeah, no. I guess I don't._
 
 _Well, we turned back and got a different car. And then I got that generator so you could take showers. Yup, sure did._
 
-<br /> 
+<hr /> 
 
 Sometimes I don't get out of him what I went into the call for, but I get something that jump starts another line of thinking. Which of course is ok with me. Bub's in his seventies now, which you'd think would dull him. But the opposite has happened. He remembers a whole set of data that I have altogether forgotten. He has an engineering mind, he sees systems I don't.
 
@@ -33,7 +35,7 @@ Looking at the hospital as an engineer isn't the same as being a patient there. 
 
 The generators can't go down at a hospital. That's the mission critical room. Generators make it so any terrible thing can happen and those patients on respirators, those patients who are in compromised situations, they still get the support they need.
 
-<br />
+<hr />
 
 As I've become an engineer myself, I experience the joy and challenge of being relied upon. Not relied upon as in if this goes down, people will die. I'm not that kind of engineer. But when I see an ECONNREFUSED I know there are people on the other side of their machines getting something other than they expect. I go into the generator room that is my virtual private server, and I start -ef'ing around, killing and restarting processes.
 
@@ -43,14 +45,13 @@ Becoming an engineer has slowed me down. I think in a different way now.
 
 I like to imagine I think more like Bub.
 
-<br />
+<hr />
 
 Before we hung up the call I said
 
-_Hey Bub, listen. I don't think I've ever really told you this, but I respect the work you've done. Thank you for showing me how I could become an engineer._
+_Hey Bub, listen. I don't think I've ever really told you this, but I respect the work you've done. Thank you for showing me how I could become an engineer like you._
 
 _Mmhmm, well, alright honey. Call your grandmother, she's over at Et's._
 
-_Gwen_ <br />
-_9 May 2013_ <br />
-_Brooklyn, New York_ <br />
+9 May 2013 <br />
+Brooklyn, New York <br />
