@@ -5,7 +5,7 @@ Git
 
 **Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
 
-<p class="lead">What if you could put the part of your brain with EARN stamped on it, what if you could let that rest for a while? Or forever?</p>
+<p class="lead">What if you could let the part of your brain with EARN stamped on it rest for a while? Or forever?</p>
 
 I watched Synecdoche, New York yesterday. Then I walked from Brooklyn to Manhattan, New York as the sun set. I walked a total of 16,557 steps, which according to my iPod Nano watch was 7.83 miles. I saw four condoms in various states of used. I saw two people sleeping on the street. I saw one woman with platinum hair run from one end to the other and back in the time it took me to get to the end of the Williamsburg bridge.
 
