@@ -3,6 +3,13 @@ Git
 
 ###Total Buy-in
 
+Listen as I read this: 
+
+<audio controls
+  src="http://sound.gwenbell.com/sounds/total_buy_in_gwen_bell.ogg">
+Your user agent does not support the HTML5 Audio element.
+</audio>
+
 **Suggested donation: $12/week. Contribute now on [Gittip](https://www.gittip.com/gwenbell/) (transparent) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gwen%40gwenbell%2ecom&lc=US&item_name=Gwen%20Bell&item_number=distributed%20genius%20grant&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (opaque).**
 
 <p class="lead">What if you could let the part of your brain with EARN stamped on it rest for a while? Or forever?</p>
