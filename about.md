@@ -1,7 +1,7 @@
 About
 =====
 
-I'll guess you came to my about page for the same reason I might go to yours. To see what we have in common.
+Guess you came to my about page for the same reason I might go to yours. To see what we have in common.
 
 <img src="images/europe-gb.jpg" width="100%" style="border: 1px solid #ccc; padding: 4px;">
 
