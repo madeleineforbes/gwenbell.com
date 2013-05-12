@@ -1,6 +1,69 @@
 Dead People
 ===========
 
+###Mothering Ourselves
+
+Holidays, but especially mother's day, used to majorly bum me. Lacking a living mom, I felt a fraud on mother's day. Excluded from some secret. This went on for years until I lived in Mexico and I watched funeral processions. I saw the slow motion moving caravans, the collective mourning. I saw that mourning doesn't have to be a solitary process.
+
+When we mourn together, it's beautiful and it's not about exclusion.
+
+I read Hope Edelman's _Motherless Daughters_ when I was still in high school. I felt very much the misfit then, my need for belonging chronically unmet. I realized post-divorce that I got married largely to meet my need for belonging. I didn't know then, but I know now, that belonging is a need, not a feeling. And that I'm capable of meeting all my own needs. No group will meet my need for belonging, no shoes will make me look like everybody else, and therefore more accepted. 
+
+I first accept myself.
+
+I'm noticing something now, for the first time in my life, as I walk to Manhattan from Brooklyn, I see no aggression in the faces I meet. I see sadness, or heartbreak at times, but never aggression.
+
+Did I just project my own aggression onto their faces all these years?
+
+It breaks my heart to think that might be true. And, I hold myself when I notice that sadness, the way the man at the Black Swan did the other night, when he ran in and headbutted Ev as he reached under his chair to catch the tiny baby bird who'd flown under him. He didn't even think, the bird-catcher, he just reached out with both hands and he cupped that baby in such a tender way, before releasing.
+
+I saw in that what I do for myself now.
+
+On this mother's day, if your mom is dying, as we all are, or if she's freshly dead, or if you've never met her at all. If you're looking around and aching today, this is me, running into a packed bar with my hands outstretched. You cannot be tender enough with yourself. 
+
+_May you be held today._ 
+
+May you know the person most qualified to do that holding is _you_.
+
+Gwen <br />
+12 May 2013 <br />
+Brooklyn, New York <br />
+Mirrors, J.T.<br />
+
+<hr />
+
+###What to do with my ashes
+
+Dear Everett,
+
+Somehow stardust fell from the sky on one particular night and it made you you. And then, a few years later you met me, and we figured we came from the same star. Because there was the dust in your eye that matched mine.
+
+You knew I was afraid to die. You knew I was careening towards thirty. And you knew I talked to faeries. 
+
+I locked myself in the closet with them, is how you knew. “Faerie Laboratory (you read the sign out loud like a Brit), what are you doing to those faeries?!” to which I replied, “Nothing! I’m not like _cooking faeries_ in here. We’re communing!”
+
+And still, you didn’t suggest meds, you just listened as I threw myself against walls and put on leg warmers and arm warmers and cried. And you watched as I put out thimblefulls of water for them. All this, and still you waited.
+
+At some point, things began to shift. I heard what the faeries were saying and they were saying what I _did_ and then _put_ into _Digital Warriorship_.
+
+So this is a final farewell of sorts. I’m thirty, and I was supposed to die at thirty, and I still could. So here’s what to do.
+
+You already know. You have the eulogy written. I’d like to ask that should I be crushed by a bus and my life cut off here in the next little bit, I’d like to request that you take my ashes to that place on the edge of the country, where the ocean meets the forest and we had the two buck chuck out of a twist-top bottle and my yoga mat almost flew away. You take them there and if anyone wants to come, you can give them a bricked copy of _Digital Warriorship_ because I left it all on the field with that one, and I won’t be able to stick around and update the living document. 
+
+Just let the doc live for one year after my untimely death.
+
+And then, please release my ashes to the faeries. They’re there.
+
+And to them I return.
+
+But I’ll leave the star dust with you.
+
+Gwen <br />
+July 2011 <br />
+Seattle, Washington <br />
+
+<hr />
+
 ###Come Out Clean
 
 I'm holding the certificate of my mom's death. It's rusty paper clipped together with the paperwork terminating my father's parental rights.
