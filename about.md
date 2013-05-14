@@ -12,11 +12,15 @@ I am now in the lucky position of being able to [write](http://git.gwenbell.com)
 This is a day in my life.
 -------------------------
 
-I wake up each morning early to get a writing and programming session in before the rest of the house awakens. I live with three housemates, partner and a cat.
+I wake up each morning early to get a writing and programming session in before the rest of the house awakens. I live with three housemates, <del>partner</del> <del>lover</del> <a href="http://evbogue.com">star twin</a> and a cat.
 
 I wake up to the sound of birds chirping and cars rolling. I pull on a pair of socks and shuffle across the hard wood floors to the kitchen. This morning I boiled water for tea, rather than making espresso. Usually I have a tiny espresso cup of Café Bustelo
 
-The first thing I do when I open my laptop is power it on. Then I $ command space into the terminal. 
+The first thing I do when I open my laptop is power it on. Then I 
+
+	$ command space 
+
+into the terminal. 
 
 From the terminal, I open my text editor, Sublime Text 2. 
 
