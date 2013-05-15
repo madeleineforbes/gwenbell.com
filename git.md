@@ -1,6 +1,34 @@
 Git
 ===
 
+###Foo Camp: What's next in tech?
+
+In March 2009 I got an invite. I was in Mexico. I was at the pool, and I'd left all my machines back in the States to be offline and rest. And I got the email on a crappy Dell in the computer lab.
+
+It was from [Dave Morin](http://davemorin.com/). He was inviting me to something that seemed quite mysterious. I love mysterious shit.
+
+He said it would go down in Sebastapol, California. It was scheduled for April, about a week and a half after I returned from Mexico. I'd have to pay my own way but it's sort of an outdoors/indoors sleep-anywhere-camp kind of event. Come learn with fellow technologists changing the world. Social Web Foo Camp. Friends of O'Reilly. That O'Reilly. The guy who publishes all the tech books with the weird animals on the cover that you buy, collect and sometimes read. (I hope you _do_ actually read them, by the way.)
+
+I remember wondering why they'd invited me. And then, I emailed back and said yes to Foo. Then I sat by the pool and all I thought about was technology: where is the web, where is it going, who will build it and how can I help?
+
+##FOO
+
+Foo. You have no idea. The brains in that group. 
+
+It was off the record, intentionally. So people felt free to be vulnerable, ask hard questions, push back against giants in the web slice we inhabited. Everybody was there. Any major social site you could think, someone was there from it. But not the talkers - the _doers_ the guys, mostly guys, who were architecting the web in which we now spend huge portions of our day.
+
+At one point I went for waffles with two guys. [One of them was Flickr's lead engineer](http://www.iamcal.com/). [The other'd built Delicious from the ground up](https://twitter.com/joshu). I remember thinking to myself, I'm hungry and can't wait for those waffles but holy fucking shit I am in a moving vehicle with two of the brightest humans on the planet. 
+
+I didn't talk much, I just listened - and these guys, their brilliance is not in what they say, it's in what they don't say. They were witty. They were smart, and not just smart, they were thinking on the edge.
+
+So in 2009, the seed was already planted for me to become an engineer. I _had to_ after that. I saw then that _talking about_ what was happening on the web and _building for_ the web are two different things. And if I was going to be talking with anyone, I wanted it to be these guys. And the only way I'd have anything to say was if I had the chops.
+
+So, I started on the path to become a programmer.
+
+And a few years later, after traveling the globe living out of one bag asking everyone I met, 'what's next in tech' I sat down and taught myself what I needed to to answer my own question.
+
+What's next in tech is what I decide to create today.
+
 ###Total Buy-in
 
 Listen as I read this: 
