@@ -3,7 +3,9 @@ Git
 
 ###Foo Camp: What's next in tech?
 
-In March 2009 I got an invite. I was in Mexico. I was at the pool, and I'd left all my machines back in the States to be offline and rest. And I got the email on a crappy Dell in the computer lab.
+<p class='lead'>In March 2009 I got an invite.</p> 
+
+I was in Mexico. I was at the pool, and I'd left all my machines back in the States to be offline and rest. I got an invite. It came over email on a crappy Dell in the computer lab.
 
 It was from [Dave Morin](http://davemorin.com/). He was inviting me to something that seemed quite mysterious. I love mysterious shit.
 
@@ -11,11 +13,13 @@ He said it would go down in Sebastapol, California. It was scheduled for April, 
 
 I remember wondering why they'd invited me. And then, I emailed back and said yes to Foo. Then I sat by the pool and all I thought about was technology: where is the web, where is it going, who will build it and how can I help?
 
-##FOO
+**FOO**
 
 Foo. You have no idea. The brains in that group. 
 
 It was off the record, intentionally. So people felt free to be vulnerable, ask hard questions, push back against giants in the web slice we inhabited. Everybody was there. Any major social site you could think, someone was there from it. But not the talkers - the _doers_ the guys, mostly guys, who were architecting the web in which we now spend huge portions of our day.
+
+<hr />
 
 At one point I went for waffles with two guys. [One of them was Flickr's lead engineer](http://www.iamcal.com/). [The other'd built Delicious from the ground up](https://twitter.com/joshu). I remember thinking to myself, I'm hungry and can't wait for those waffles but holy fucking shit I am in a moving vehicle with two of the brightest humans on the planet. 
 
@@ -25,9 +29,16 @@ So in 2009, the seed was already planted for me to become an engineer. I _had to
 
 So, I started on the path to become a programmer.
 
-And a few years later, after traveling the globe living out of one bag asking everyone I met, 'what's next in tech' I sat down and taught myself what I needed to to answer my own question.
+And a few years later, after traveling the globe living out of one bag asking everyone I met, 'what's next in tech?' I sat down and taught myself what I needed to to answer my own question.
 
-What's next in tech is what I decide to create today.
+You may have guessed the answer. 
+
+What's next in tech is what my peers and I commit today.
+
+14 May 2013 <br />
+Brooklyn, New York <br />
+
+<hr />
 
 ###Total Buy-in
 
