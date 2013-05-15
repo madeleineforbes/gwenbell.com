@@ -27,6 +27,6 @@ exports.deadpeople = function(req, res){
 res.render('deadpeople', { title: 'Dead People'});
 };
 
-exports.belongings = function(req, res){
-res.render('belongings', { title: 'Belongings'});
+exports.thework = function(req, res){
+res.render('thework', { title: 'The Work'});
 };
