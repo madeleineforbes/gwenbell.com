@@ -1,6 +1,8 @@
 Reader Responses
 ----------------
 
+<iframe width="460" height="259" src="http://www.youtube.com/embed/OzBl-mui6Hw" frameborder="0" allowfullscreen></iframe>
+
 Today I erased it all and started again. Deleted the whole caboodle, actually, thanks to Gwen Bell who somehow encouraged me to the very edge of the safe rubber dinghy that is blogging on a platform like Wordpress.
 
 "I can't do it!" I said. "It's frightening! I'm a writer, a thinker, not some kind of tech-y code-y person who builds websites! All the Internet People will sense that and find out and judge me and be angry and throw bitcoins at me!"

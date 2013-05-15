@@ -3,7 +3,7 @@ About
 
 I live in Brooklyn, New York. Bed-Stuy _represent_.
 
-I moved to the city in March 2013, having spent 2012 traveling the globe (Berlin with a stop over in London, Singapore, Japan, and Mexico). As I traveled all I owned fit into [this bag](http://missionworkshop.com/products/advanced_projects/vx-rucksack.php), and I was able to support each leg of the journey by doing the work. As traveled, I looked for what's next in tech and didn't find it out there, so I decided to program it myself.
+I moved to the city in March 2013, having spent 2012 traveling the globe (Berlin with a stop over in London, Singapore, Japan, and Mexico). As I traveled all I owned fit into [this bag](http://missionworkshop.com/products/advanced_projects/vx-rucksack.php), and I was able to support each leg of the journey by doing the work. As I traveled, I looked for what's next in tech and didn't find it out there, so I decided to program it myself.
 
 I am now in the lucky position of being able to [write](http://git.gwenbell.com) and [program](http://gwenbell.com/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and the public web. I earn cash from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
 
@@ -44,4 +44,10 @@ I go to bed by midnight most nights. The last thing I do before I fall asleep is
 
 <hr />
 
-I love to be challenged and I love juicy questions. If you have programming questions - that's the beat I'm currently working - [send them](mailto:gwen@gwenbell.com). I read each message that crosses my screen, even if I don't reply right away. If you want my immediate response, submit a [pull request](http://github.com/gwenbell). I love merging pull requests!
+Speaking of appreciations, you can read what readers, clients and fellow travelers [have to say](http://gwenbell.com/responses) about the quality and care I put into the work.
+
+<hr />
+
+I love to be challenged and I double love juicy questions. 
+
+If you have programming questions, especially to do with Node basics, Git, Express, Jade, Stylus or Markdown - that's the beat I'm currently working - [send them](mailto:gwen@gwenbell.com). I read each message that crosses my screen, even if I don't reply right away. If you want my immediate response, submit a [pull request](http://github.com/gwenbell). I love merging pull requests!
