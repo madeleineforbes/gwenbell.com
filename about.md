@@ -77,11 +77,11 @@ As for me, I had big plans to take on the world. I'd just spent a year studying 
 
 Before I flew out, I started a LiveJournal account. That's how I became a digital publisher. I just started writing for my grandmother, Nunu, so she could track my progress (or stories or horror stories) abroad.
 
-**2003** I flew to Japan with a company called NOVA. I tried to get upgraded to first class by wearing a suit. That plot failed.
+**2003** I flew to Japan with a company called NOVA. I tried to get upgraded to first class by wearing a suit. Denied.
 
 NOVA eventually went bankrupt, but before it did I taught as an English teacher in the heart of Tokyo, in Kokubunji. I wore a suit every day and I hated the suit but I loved the teaching. I saw an ad for a pilot program. NOVA needed teachers in elementary schools. I applied. I was one of only four to get the position. I was the only one who got the offer of five days teaching (instead of 3 or 4) in the elementary school.
 
-**2004** In 2004 I started teaching yoga. I taught it at Paper Tiger, a donation-based studio above an izakaya in downtown Kiryu. My first students were teachers from Yamamae. I was ready for the next challenge, and I taught myself CSS and HTML so I'd be ready for it.
+**2004** In 2004 I started teaching yoga. I taught it at Paper Tiger, a donation-based studio I started above an izakaya in downtown Kiryu. My first students were the Japanese teachers from Yamamae. I was ready for the next challenge, and I taught myself CSS and HTML to prepare for it.
 
 **2005** In 2005, at the completion of a year teaching in the elementary school, I cranked it to the next level. I rolled all my teaching money into the key money and deposit on a studio in Yokohama, a city by the sea that I loved, and still do. 
 
