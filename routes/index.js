@@ -30,3 +30,7 @@ res.render('deadpeople', { title: 'Dead People'});
 exports.thework = function(req, res){
 res.render('thework', { title: 'The Work'});
 };
+
+exports.thework = function(req, res){
+res.render('tech', { title: 'Technical Writing'});
+};
