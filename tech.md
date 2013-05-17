@@ -34,6 +34,8 @@ I was already using gwen at gwenbell.com. I was redirecting it to Google. I simp
 
 **8** Browser! I now use [Firefox, Nightly Build](http://nightly.mozilla.org/).
 
+**9** This is the hardest of all. When you leave the ecosystem, leave completely. Avoid sites that talk about Google at length, and stay away from sources you once enjoyed that are Google-centric. The investment to do so is time, and paying closer attention.
+
 Our work becomes more resilient through deletion.
 
 <hr />
