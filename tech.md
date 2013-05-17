@@ -1,42 +1,28 @@
-Git
-===
+Technical Writing
+=================
 
-###Foo Camp: What's next in tech?
+###A Gentle Guide to Ditching Google for Good
 
-<p class='lead'>In March 2009 I got an invite.</p> 
+If you want to know how dependent you are on something, get locked out of it. That happened to me while I was in Mexico, I got locked out of my Google account - [video about that here](http://www.youtube.com/watch?v=SlLIp-Pltiw&feature=youtu.be) - and realized my digital life was a wobbly, Google-reliant stool. 
 
-I was in Mexico. I was at the pool, and I'd left all my machines back in the States to be offline and rest. I got an invite. It came over email on a crappy Dell in the computer lab.
+That was 2011. By 2012 I deleted my Google account. This is how I got off and have been able to stay off, Google products. My work has become more resilient in the process.
 
-It was from [Dave Morin](http://davemorin.com/). He was inviting me to something that seemed quite mysterious. I love mysterious shit.
+**1** Process your inbox. Even with all the systems we've created to streamline our inboxes, we still fail to process them completely. To process it one final time, I went through my entire GMail box and made a decision about every message, stretching back to 2007.
 
-He said it would go down in Sebastapol, California. It was scheduled for April, about a week and a half after I returned from Mexico. I'd have to pay my own way but it's sort of an outdoors/indoors sleep-anywhere-camp kind of event. Come learn with fellow technologists changing the world. Social Web Foo Camp. Friends of O'Reilly. That O'Reilly. The guy who publishes all the tech books with the weird animals on the cover that you buy, collect and sometimes read. (I hope you _do_ actually read them, by the way.)
+Then I
++removed any sensitive messages to a hard drive
++had conversations with any people I needed to if there were things unresolved
++responded, no matter how old the message was, and did not apologize for doing so
 
-I remember wondering why they'd invited me. And then, I emailed back and said yes to Foo. Then I sat by the pool and all I thought about was technology: where is the web, where is it going, who will build it and how can I help?
+**2** After processing to actual zero, I took some time away from it. Just because it's now at actual zero doesn't mean you're ready to delete. I took three months to delete my GMail account once I'd completely processed it.
 
-**FOO**
+**3** I got out of my [filter bubble](http://dontbubble.us) by switching my searches to Duck Duck Go. I now say, "hold on, let me duck duck go that".
 
-Foo. You have no idea. The brains in that group. 
+**4** I removed myself from the Google cloud by migrating anything on Google Drive to my own external hard drive. Then I created a duplicate of that hard drive, so if I lose or damage one, I have a copy.
 
-It was off the record, intentionally. So people felt free to be vulnerable, ask hard questions, push back against giants in the web slice we inhabited. Everybody was there. Any major social site you could think, someone was there from it. But not the talkers - the _doers_ the guys, mostly guys, who were architecting the web in which we now spend huge portions of our day.
+**5** When I need to co-write something, I use Git rather than a cloud-based service like Google Docs. You can also try [Prose.io](http://prose.io/).
 
-<hr />
-
-At one point I went for waffles with two guys. [One of them was Flickr's lead engineer](http://www.iamcal.com/). [The other'd built Delicious from the ground up](https://twitter.com/joshu). I remember thinking to myself, I'm hungry and can't wait for those waffles but holy fucking shit I am in a moving vehicle with two of the brightest humans on the planet. 
-
-I didn't talk much, I just listened - and these guys, their brilliance is not in what they say, it's in what they don't say. They were witty. They were smart, and not just smart, they were thinking on the edge.
-
-So in 2009, the seed was already planted for me to become an engineer. I _had to_ after that. I saw then that _talking about_ what was happening on the web and _building for_ the web are two different things. And if I was going to be talking with anyone, I wanted it to be these guys. And the only way I'd have anything to say was if I had the chops.
-
-So, I started on the path to become a programmer.
-
-And a few years later, after traveling the globe living out of one bag asking everyone I met, 'what's next in tech?' I sat down and taught myself what I needed to to answer my own question.
-
-You may have guessed the answer. 
-
-What's next in tech is what my peers and I commit today.
-
-14 May 2013 <br />
-Brooklyn, New York <br />
+**6** 
 
 <hr />
 
