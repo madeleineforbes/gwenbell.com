@@ -32,5 +32,5 @@ res.render('thework', { title: 'The Work'});
 };
 
 exports.tech = function(req, res){
-res.render('tech', { title: 'Technical Writing'});
+res.render('tech', { title: 'Tech'});
 };
