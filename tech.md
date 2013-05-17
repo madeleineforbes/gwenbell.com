@@ -3,6 +3,8 @@ Technical Writing
 
 ###Ditch Google for Good
 
+<mark>Nut graph: If you never hit delete, you never know what you have. To find out what you have, delete.</mark>
+
 If you want to know how dependent you are on something, get locked out of it. It happened as I sipped on a coconut in Mexico. I got locked out of my Google account - [video about that here](http://www.youtube.com/watch?v=SlLIp-Pltiw&feature=youtu.be) - and realized my digital life was a wobbly, one-legged Google stool. 
 
 That was December 2011. By December 2012 I'd deleted my Google account. This is how I got off and have been able to stay off, Google products. All but one - see point 7.
@@ -35,6 +37,8 @@ I was already using gwen at gwenbell.com. I was redirecting it to Google. I simp
 **8** Browser! I now use [Firefox, Nightly Build](http://nightly.mozilla.org/).
 
 **9** This is the hardest of all. When you leave the ecosystem, leave completely. Avoid sites that talk about Google at length, and stay away from sources you once enjoyed that are Google-centric. The investment to do so is time, and paying closer attention.
+
+If you never hit delete, you never know what you have. What's left after you hit delete? Just sit there and wonder.
 
 Our work becomes more resilient through deletion.
 
