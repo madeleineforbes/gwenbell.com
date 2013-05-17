@@ -1,19 +1,23 @@
 Technical Writing
 =================
 
-###A Gentle Guide to Ditching Google for Good
+###Ditch Google for Good
 
-If you want to know how dependent you are on something, get locked out of it. That happened to me while I was in Mexico, I got locked out of my Google account - [video about that here](http://www.youtube.com/watch?v=SlLIp-Pltiw&feature=youtu.be) - and realized my digital life was a wobbly, Google-reliant stool. 
+If you want to know how dependent you are on something, get locked out of it. It happened as I sipped on a coconut in Mexico. I got locked out of my Google account - [video about that here](http://www.youtube.com/watch?v=SlLIp-Pltiw&feature=youtu.be) - and realized my digital life was a wobbly, one-legged Google stool. 
 
-That was 2011. By 2012 I deleted my Google account. This is how I got off and have been able to stay off, Google products. My work has become more resilient in the process.
+That was December 2011. By December 2012 I'd deleted my Google account. This is how I got off and have been able to stay off, Google products. All but one - see point 7.
+
+Ditching things requires you make a decision. A series of decisions, starting with processing your inbox.
 
 **1** Process your inbox. Even with all the systems we've created to streamline our inboxes, we still fail to process them completely. To process it one final time, I went through my entire GMail box and made a decision about every message, stretching back to 2007.
 
 Then I
 
-+ removed any sensitive messages to a hard drive
++ moved any sensitive messages to a hard drive
 + had conversations with any people I needed to if there were things unresolved
 + responded, no matter how old the message was, and did not apologize for doing so
+
+I was already using gwen at gwenbell.com. I was redirecting it to Google. I simply killed the redirect and now use Thunderbird full-time.
 
 **2** After processing to actual zero, I took some time away from it. Just because it's now at actual zero doesn't mean you're ready to delete. I took three months to delete my GMail account once I'd completely processed it.
 
@@ -23,7 +27,22 @@ Then I
 
 **5** When I need to co-write something, I use Git rather than a cloud-based service like Google Docs. You can also try [Prose.io](http://prose.io/).
 
-**6** 
+**6** Communication. Lots of you have asked about getting off Google Chat. There's [XMPP](http://xmpp.org/) for that.
+
+**7** The only thing I use Google for at this point is the Youtube live broadcast and record simultaneously feature. When Jitsi adds that, or WebRTC gets it, I'll switch.
+
+**8** Browser! I now use [Firefox, Nightly Build](http://nightly.mozilla.org/).
+
+Our work becomes more resilient through deletion.
+
+<hr />
+
+If you get something from this work, consider [giving to it](http://gittip.com/gwenbell).
+
+Gwen <br />
+
+Brooklyn, New York <br />
+17 May 2013
 
 <hr />
 
