@@ -46,8 +46,6 @@ Brooklyn, New York <br />
 17 May 2013 <br />
 Sound of bath running
 
-<hr />
-
 ###Total Buy-in
 
 Listen as I read this: 
