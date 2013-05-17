@@ -12,10 +12,11 @@ Ditching things requires you make a decision. A series of decisions, starting wi
 **1** Process your inbox. Even with all the systems we've created to streamline our inboxes, we still fail to process them completely. To process it one final time, I went through my entire GMail box and made a decision about every message, stretching back to 2007.
 
 Then I
-
-+ moved any sensitive messages to a hard drive
-+ had conversations with any people I needed to if there were things unresolved
-+ responded, no matter how old the message was, and did not apologize for doing so
+<ol>
+  <li>moved any sensitive messages to a hard drive</li>
+  <li>had conversations with any people I needed to if there were things unresolved</li>
+  <li>responded, no matter how old the message was, and did not apologize for doing so</li>
+</ol>
 
 I was already using gwen at gwenbell.com. I was redirecting it to Google. I simply killed the redirect and now use Thunderbird full-time.
 
@@ -39,10 +40,9 @@ Our work becomes more resilient through deletion.
 
 If you get something from this work, consider [giving to it](http://gittip.com/gwenbell).
 
-Gwen <br />
-
 Brooklyn, New York <br />
-17 May 2013
+17 May 2013 <br />
+Sound of bath running
 
 <hr />
 
