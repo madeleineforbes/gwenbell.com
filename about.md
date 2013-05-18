@@ -147,6 +147,6 @@ I found peace about my mom's death on the mat.
 
 I found peace about my own death on the mat. 
 
-I've found, and keep finding, something higher than my small own self on the mat.
+I've found, and keep finding, something higher than my own small self on the mat.
 
 <hr />
