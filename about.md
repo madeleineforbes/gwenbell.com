@@ -1,13 +1,13 @@
 About
 =====
 
-<a href="#dailylife">Daily Life</a> | <a href="#unresume">Unresume</a>
+<a href="#dailylife">Daily Life</a> | <a href="#unresume">Unresume</a> | <a href="#yoga">Yoga</a>
 
-I live in Brooklyn, New York. Bed-Stuy _represent_.
+I live in Brooklyn, New York.
 
-I moved to the city in March 2013. Before that, I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech and I didn't find it out there, so I decided to program it myself.
+I moved to this city in March 2013. Before that, I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech and I didn't find it out there, so I decided to program it myself.
 
-I am now in the lucky position of being able to [write](http://git.gwenbell.com) and [program](http://gwenbell.com/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and the public web. I earn cash from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
+I am now in the lucky position of being able to [write](http://git.gwenbell.com) and [program](http://gwenbell.com/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and the public web. I earn from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
 
 <a name="dailylife"></a>
 
@@ -61,7 +61,7 @@ If you have programming questions, especially to do with Node basics, Git, Expre
 
 <hr />
 
-<h2>This is what I've done with my life to date.</h2>
+<h3>This is what I've done with my life to date.</h3>
 
 **An unresume. I wrote this on 16 May 2013 while drinking sangria, made by an authentic Spaniard.**
 
@@ -108,3 +108,45 @@ And now. I write, I program and, when it's available, I drink sangria with my ho
 If it sounds like an amazing adventure, that's because it is. Because of the challenges it presents, it's the most amazing adventure of all time. And...it keeps getting better. Maybe you'd like to [work with me](mailto:gwen@gwenbell.com)? And if not, if you're one of the readers who has been with me all these years, through all of this, _thank you_ for being with me. Your support is the pocket rocket that fuels this work.
 
 *Ok if I use you guys as a reference?
+
+<a name="yoga"></a>
+
+
+<hr />
+
+
+<h3>Yoga Resources</h3>
+
+These are answers to the questions I've gotten asked most often during my decade plus practicing and teaching yoga. To this day I consider myself a beginner. I'm always discovering new micro-muscles, new ways to lengthen or breathe into a posture. <mark>I share this because though I don't write about it much these days, I am 1/3 yoga.</mark>
+
+<h4>Lineage</h4>
+
+I took my first yoga class during my freshman year at Carolina. My first yoga teacher, [Lila Pierce Brown](http://triangleyoga.com/AnusaraTeachers.htm), though a newb herself at the time, is an Anusara teacher now. She taught me about Dr Bronners, and I now use no other product on my body - no deo, no shampoo, no nothing other than Bronners.
+
+I laughed my whole way through the class. It seemed preposterous to move my body like that. In a classroom. With other people watching.
+
+If someone had said, 'watch your breath' to me then, I would have laughed at them.
+
+I earned my 200 hour yoga teacher certification from [Living Yoga](http://livingyogaprogram.com/) in Austin. One of the biggest breakthroughs for me was learning how to neti. I love my neti pot. 
+
+I also learned the technical aspects of yoga, including anatomy of the body. Ellen, Charles and Donna know their yoga. I opened the yoga studio in Japan with them as the wind at my back. [Sanieh](http://www.saniehyoga.com/) was my roomie at teacher training, and she's gone on to do big things, too.
+
+<h4>The Studio</h4>
+
+My second yoga studio in Japan, Yoga Garden, I co-owned with [Patrick Reynolds](http://www.wellnessbeginshere.com/) from 2004-2010. We closed it for Patrick to take on more digital work and have a baby with his wife, a former teacher at our studio. To this day I receive messages from former students in Japan wanting to know if they can take one more yoga class with Patrick.
+
+I've practiced with Rodney Yee and his wife (once), dozens of [Yoga to the People](http://yogatothepeople.com/) teachers, Patrick Oancia in Japan. Richard Freeman and Pattabhi Jois have inspired me through their digital legacies.
+
+I've practiced in Bali, Mexico, England, I can't even name all the places I've felt the glory and juice on a yoga mat. Two teachers I adored, <a href="https://www.barrebodnutrition.com/about/">Jess and Andrew</a> keep rockin' all over the globe. God. I can't even name everyone who has touched me on the mat.
+
+I've taught all over the globe. I've taught techies laptop yoga. I've taught women yoga in the gorgeous, soaring redwoods of California. I've taught on beaches in Mexico. I've taught surfers how to down dog. I've taught babies how to roll on their mom's tummies. I've taught women how to breathe into bandhas. I've held space as my students have cried. 
+
+<h4>Why I practice</h4>
+
+I found peace about my mom's death on the mat. 
+
+I found peace about my own death on the mat. 
+
+I've found, and keep finding, something higher than my small own self on the mat.
+
+<hr />
