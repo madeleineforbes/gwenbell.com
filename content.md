@@ -1,4 +1,4 @@
-##All the little reasons I learned Git
+##31 Reasons Git is Magic
 
 1. I sleep at night because I use Git.
 2. I never think about botnets because I use Git.
