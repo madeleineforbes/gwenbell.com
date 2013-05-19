@@ -12,7 +12,7 @@ My given name is Gwen Bell. I live in Brooklyn, New York.
 
 I moved here in March 2013. Before New York I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech. I didn't find it out there, so I decided to program it myself.
 
-I [write](http://git.gwenbell.com) and [program](http://gwenbell.com/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and this site. I earn from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
+I [write](http://git.gwenbell.com) and [program](/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and this site. I earn from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
 
 <a name="dailylife"></a>
 
@@ -94,11 +94,11 @@ In that time frame, I went to BlogHer for the first time. I decided the next yea
 
 I spoke at BlogHer the very next year, 2008, about syndicating your content. During this time I was a brand ambassador for Nintendo. I played games and wrote about them sometimes. Sweet gig, as you might imagine.
 
-**2009-2010** In 2009 I married a handsome programmer. We are now divorced, and at the time I learned a lot from him about programming because he worked for a startup that was later acquired. While on our post-wedding vacation, I got an invite to Social Web Foo Camp, which [I accepted](http://gwenbell.com/git).
+**2009-2010** In 2009 I married a handsome programmer. We are now divorced, and at the time I learned a lot from him about programming because he worked for a startup that was later acquired. While on our post-wedding vacation, I got an invite to Social Web Foo Camp, which [I accepted](/git).
 
 **2010-2012** From 2010 to 2013 I earned my living as a writer, consultant and speaker. I signed with a speaking agent, spoke at engagements all over the country, taught social web classes at the University of Colorado at Boulder, and was featured on the cover of a magazine for their 'Discover Something Wonderful' edition. The magazine is Experience Life, and I later did consulting with them and can't say enough good things about that team.
 
-**2012-2013** From 2012 to 2013 I traveled the globe, writing to the inboxes of [thousands of you](http://gwenbell.com/responses)* located in places all over the globe. I made a living [as a writer](http://gwenbell.com/thework). 
+**2012-2013** From 2012 to 2013 I traveled the globe, writing to the inboxes of [thousands of you](/responses)* located in places all over the globe. I made a living [as a writer](/thework). 
 
 **2013** I wanted to know what was next in tech. I flew all over the globe to find out. While I did that, I powered down my social accounts to travel and be _in_ it rather than reporting about it to the social web. I didn't find what's next in tech. Since I didn't find it, I decided I'd have to create it. I became a programmer. I taught myself Git, Node.js, JavaScript, Linux, Unix, the command line. I won a game (after badly losing the first time) of Twilight Imperium to kick it all off. 
 
@@ -112,6 +112,6 @@ And now. I write, I program and, when it's available, I drink sangria with my ho
 
 <h3>Yoga </h3>
 
-I got my first laptop the same year I started practicing yoga. I taught myself HTML and CSS so I could make the site for my yoga studio in Japan. I see my time on the mat informing my time on the machine, a tiny infinity. The work I do on the mat shows up on the command line. I wrote the practices that inform my work into [Digital Warriorship](http://gwenbell.com/thework).
+I got my first laptop the same year I started practicing yoga. I taught myself HTML and CSS so I could make the site for my yoga studio in Japan. I see my time on the mat informing my time on the machine, a tiny infinity. The work I do on the mat shows up on the command line. I wrote the practices that inform my work into [Digital Warriorship](/thework).
 
 <hr />
