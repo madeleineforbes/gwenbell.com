@@ -3,11 +3,16 @@ About
 
 <a href="#dailylife">Daily Life</a> | <a href="#unresume">Unresume</a> | <a href="#yoga">Yoga</a>
 
-I live in Brooklyn, New York.
 
-I moved to this city in March 2013. Before that, I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech and I didn't find it out there, so I decided to program it myself.
+<blockquote>
+	More than anything, you've inspired me to continue to challenge my attachments and "the way things are done" – both personally and professionally. - Kathleen Shannon, <a href="http://braidcreative.com">Braid Creative</a>
+	</blockquote>
 
-I am now in the lucky position of being able to [write](http://git.gwenbell.com) and [program](http://gwenbell.com/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and the public web. I earn from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
+My given name is Gwen Bell. I live in Brooklyn, New York.
+
+I moved here in March 2013. Before New York I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech. I didn't find it out there, so I decided to program it myself.
+
+I [write](http://git.gwenbell.com) and [program](http://gwenbell.com/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and this site. I earn from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
 
 <a name="dailylife"></a>
 
@@ -15,23 +20,23 @@ I am now in the lucky position of being able to [write](http://git.gwenbell.com)
 <hr />
 
 
-<h3>This is a day in my life.</h3>
+<h3>Day in my life</h3>
 
 I wake up each morning early to get a writing and programming session in before the rest of the house awakens. I live with three housemates, <del>partner</del> <del>lover</del> <a href="http://evbogue.com">star twin</a> and a cat.
 
-I wake up to the sound of birds chirping and cars rolling. I pull on a pair of socks and shuffle across the hard wood floors to the kitchen. This morning I boiled water for tea, rather than making espresso. Usually I have a tiny espresso cup of Café Bustelo
+I wake up to the sound of birds chirping and cars rolling. I pull on a pair of socks and shuffle across the hard wood floors to the kitchen. I have a tiny espresso cup of Café Bustelo from a stovetop espresso maker.
 
 The first thing I do when I open my laptop is power it on. Then I 
 
 	$ command space 
 
-into the terminal. 
+into the terminal. (That's a shortcut in Quicksilver.)
 
-From the terminal, I open my text editor, Sublime Text 2. 
+From the terminal I open my text editor, Sublime Text 2. 
 
 Once open, I start writing from the top. When I'm done with my morning writing session, I take a bath.
 
-I usually eat huevos rancheros or cranberry cinnamon oatmeal for breakfast.
+I eat huevos rancheros or cranberry cinnamon oatmeal for breakfast.
 
 The afternoon gets kicked off with a strategy session with [Ven](http://twitter.com/venportman). After the strategy session, most days I walk either to the Bed-Stuy donut shop for a chocolate covered cocao nib donut and the Janet Jackson that's usually playing. 
 
@@ -41,15 +46,11 @@ While in Manhattan, I eat 2 Bros because I find the marinara sauce tasty and it'
 
 Throughout the day I see a wide variety of people come through my front door. I commune with faeries and dead people by astral planking at least once a day. I do late night forward folds with the candles lit. Each week I go to [yoga to the people](http://yogatothepeople.com) to have myself stretched by the collective.
 
-Most days I walk 10,000+ steps. I've discovered doing so blank slates me. 
+Most days I walk 10,000+ steps.
 
 In the evenings, I connect with my housemates, program and practice yoga, do long-form writing and [conduct inbox correspondence](mailto:gwen@gwenbell.com). 
 
 I go to bed by midnight most nights. The last thing I do before I fall asleep is appreciations.
-
-<hr />
-
-Speaking of appreciations, you can read what readers, clients and fellow travelers [have to say](http://gwenbell.com/responses) about the quality and care I put into the work.
 
 <hr />
 
@@ -61,7 +62,7 @@ If you have programming questions, especially to do with Node basics, Git, Expre
 
 <hr />
 
-<h3>This is what I've done with my life to date.</h3>
+<h3>What I've done so far</h3>
 
 **An unresume. I wrote this on 16 May 2013 while drinking sangria, made by an authentic Spaniard.**
 
@@ -105,48 +106,12 @@ And now. I write, I program and, when it's available, I drink sangria with my ho
 
 <hr />
 
-If it sounds like an amazing adventure, that's because it is. Because of the challenges it presents, it's the most amazing adventure of all time. And...it keeps getting better. Maybe you'd like to [work with me](mailto:gwen@gwenbell.com)? And if not, if you're one of the readers who has been with me all these years, through all of this, _thank you_ for being with me. Your support is the pocket rocket that fuels this work.
-
-*Ok if I use you guys as a reference?
 
 <a name="yoga"></a>
 
 
-<hr />
+<h3>Yoga </h3>
 
-
-<h3>Yoga Resources</h3>
-
-These are answers to the questions I've gotten asked most often during my decade plus practicing and teaching yoga. To this day I consider myself a beginner. I'm always discovering new micro-muscles, new ways to lengthen or breathe into a posture. <mark>I share this because though I don't write about it much these days, I am 1/3 yoga.</mark>
-
-<h4>Lineage</h4>
-
-I took my first yoga class during my freshman year at Carolina. My first yoga teacher, [Lila Pierce Brown](http://triangleyoga.com/AnusaraTeachers.htm), though a newb herself at the time, is an Anusara teacher now. She taught me about Dr Bronners, and I now use no other product on my body - no deo, no shampoo, no nothing other than Bronners.
-
-I laughed my whole way through the class. It seemed preposterous to move my body like that. In a classroom. With other people watching.
-
-If someone had said, 'watch your breath' to me then, I would have laughed at them.
-
-I earned my 200 hour yoga teacher certification from [Living Yoga](http://livingyogaprogram.com/) in Austin. One of the biggest breakthroughs for me was learning how to neti. I love my neti pot. 
-
-I also learned the technical aspects of yoga, including anatomy of the body. Ellen, Charles and Donna know their yoga. I opened the yoga studio in Japan with them as the wind at my back. [Sanieh](http://www.saniehyoga.com/) was my roomie at teacher training, and she's gone on to do big things, too.
-
-<h4>The Studio</h4>
-
-My second yoga studio in Japan, Yoga Garden, I co-owned with [Patrick Reynolds](http://www.wellnessbeginshere.com/) from 2004-2010. We closed it for Patrick to take on more digital work and have a baby with his wife, a former teacher at our studio. To this day I receive messages from former students in Japan wanting to know if they can take one more yoga class with Patrick.
-
-I've practiced with Rodney Yee and his wife (once), dozens of [Yoga to the People](http://yogatothepeople.com/) teachers, Patrick Oancia in Japan. Richard Freeman and Pattabhi Jois have inspired me through their digital legacies.
-
-I've practiced in Bali, Mexico, England, I can't even name all the places I've felt the glory and juice on a yoga mat. Two teachers I adored, <a href="https://www.barrebodnutrition.com/about/">Jess and Andrew</a> keep rockin' all over the globe. God. I can't even name everyone who has touched me on the mat.
-
-I've taught all over the globe. I've taught techies laptop yoga. I've taught women yoga in the gorgeous, soaring redwoods of California. I've taught on beaches in Mexico. I've taught surfers how to down dog. I've taught babies how to roll on their mom's tummies. I've taught women how to breathe into bandhas. I've held space as my students have cried. 
-
-<h4>Why I practice</h4>
-
-I found peace about my mom's death on the mat. 
-
-I found peace about my own death on the mat. 
-
-I've found, and keep finding, something higher than my own small self on the mat.
+I got my first laptop the same year I started practicing yoga. I taught myself HTML and CSS so I could make the site for my yoga studio in Japan. I see my time on the mat informing my time on the machine, a tiny infinity. The work I do on the mat shows up on the command line. I wrote the practices that inform my work into [Digital Warriorship](http://gwenbell.com/thework).
 
 <hr />
