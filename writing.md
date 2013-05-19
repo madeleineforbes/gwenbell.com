@@ -27,7 +27,7 @@ Notes on the writing
 
 ###Ditch Google for Good
 
-<mark>Nut graph: If you never hit delete, you never know what you have. To find out what you have, delete.</mark>
+If you never hit delete, you never know what you have. To find out what you have, delete.
 
 If you want to know how dependent you are on something, get locked out of it. It happened as I sipped on a coconut in Mexico. I got locked out of my Google account - [video about that here](http://www.youtube.com/watch?v=SlLIp-Pltiw&feature=youtu.be) - and realized my digital life was a wobbly, one-legged Google stool. 
 
@@ -38,11 +38,11 @@ Ditching things requires you make a decision. A series of decisions, starting wi
 **1** Process your inbox. Even with all the systems we've created to streamline our inboxes, we still fail to process them completely. To process it one final time, I went through my entire GMail box and made a decision about every message, stretching back to 2007.
 
 Then I
-<ol>
+<ul>
   <li>moved any sensitive messages to a hard drive</li>
   <li>had conversations with any people I needed to if there were things unresolved</li>
   <li>responded, no matter how old the message was, and did not apologize for doing so</li>
-</ol>
+</ul>
 
 I was already using gwen at gwenbell.com. I was redirecting it to Google. I simply killed the redirect and now use Thunderbird full-time.
 
