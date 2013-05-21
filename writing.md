@@ -1,11 +1,13 @@
 Writing
 =======
 
-<a href="#tech">Tech</a> | <a href="#sex">Sex</a> | <a href="#death">Death</a>
+<a href="#tech">Tech</a> | <a href="#death">Death</a>
 
-<blockquote>I find it so refreshing how you start over from scratch again and again... not only with the website but also the different networks and platforms you use. Just wanted to let you know that I love what you do - in every aspect - and that you're such an inspiration for me! - RV </blockquote>
+<blockquote>I find it so refreshing how you start over from scratch again and again... not only with the website but also the different networks and platforms you use. Just wanted to let you know that I love what you do - in every aspect - and that you're such an inspiration for me! - RS </blockquote>
 
 <blockquote>Your passion and dedication are highly admirable and have inspired me. - JPR </blockquote>
+
+<blockquote>What sets [Gwen Bell] apart from the slew of young, hip pro-Facebookers out there is that she not only translates the complicated language of social media, she also teaches technologists to unplug. - Sheryl Sulistiawan, Fast Company</blockquote>
 
 Notes on the writing
 
@@ -24,6 +26,10 @@ Notes on the writing
 
 
 <h2>Technical Writing</h2>
+
+###Git and Rilke
+
+
 
 ###Ditch Google for Good
 
@@ -214,19 +220,7 @@ _Mmhmm, well, alright honey. Call your grandmother, she's over at Et's._
 9 May 2013 <br />
 Brooklyn, New York <br />
 
-<a name="sex"></a>
-
-
 <hr />
-
-
-<h2>Writing of a Sexual Nature</h2>
-
-<p align="center"><iframe width="400" height="225" src="http://www.youtube.com/embed/ryKPOa2SANg" frameborder="0" allowfullscreen></iframe></p>
-
-More coming soon.
-
-<br />
 
 <a name="death"></a>
 
