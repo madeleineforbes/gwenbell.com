@@ -1,3 +1,8 @@
+<audio controls
+  src="http://sound.gwenbell.com/sounds/Git_and_Rilke.ogg">
+Your user agent does not support the HTML5 Audio element.
+</audio>
+
 <p class="lead">Folks keep asking why I'm so into Git right now.</p> I'm into Git the way I was into Rilke when I discovered him. Reading Rilke was magic for me. Likewise, Git. Learning it unlocked something in me. It put me into a group of people whose company I enjoy: engineers. Git pulled me out of the social ghetto and put me in the dev game.
 
 I won't convince you to learn Git. If I have to convince you, you're not ready. When I tried convincing someone face to face, it ended badly, with the person storming off in a huff. To be honest, I wasn't sad to see that person go. We're playing different games now.
