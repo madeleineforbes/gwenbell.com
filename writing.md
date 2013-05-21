@@ -12,10 +12,10 @@ Writing
 Notes on the writing
 
 <ol>
-	<li>I don't hard link into things because I delete often</li> 
-	<li>Anything you read here is written in disappearing ink</li> 
-	<li>If you're looking for a piece and can't find it, check the [Git commits](http://github.com/gwenbell)</li>
-	<li>If you'd like work I won't delete as you're reading it, check <a href="http://gwenbell.com">The Work</a></li>
+	<li>I don't hard link into things. I delete often.</li> 
+	<li>Anything you read here is written in disappearing ink.</li> 
+	<li>If you're looking for a piece and can't find it, check the [Git commits](http://github.com/gwenbell).</li>
+	<li>If you'd like work I won't delete as you're reading it, buy <a href="http://gwenbell.com">The Work</a> or <a href="http://git.gwenbell.com">Git Commit</a>.</li>
 
 			</ol>
 
@@ -26,10 +26,6 @@ Notes on the writing
 
 
 <h2>Technical Writing</h2>
-
-###Git and Rilke
-
-
 
 ###Ditch Google for Good
 
