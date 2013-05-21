@@ -1,4 +1,16 @@
-##31 Reasons Git is Magic
+<p class="lead">Folks keep asking why I'm so into Git right now.</p> I'm into Git the way I was into Rilke when I discovered him. Reading Rilke was magic for me. Likewise, Git. Learning it unlocked something in me. It put me into a group of people whose company I enjoy: engineers. Git pulled me out of the social ghetto and put me in the dev game.
+
+I won't convince you to learn Git. If I have to convince you, you're not ready. When I tried convincing someone face to face, it ended badly, with the person storming off in a huff. To be honest, I wasn't sad to see that person go. We're playing different games now.
+
+If you are ready, I [can help you learn Git](http://git.gwenbell.com). But I'm not going to convince you have to. Git, like Rilke, is its own thing, and I am no longer in the ambassador game. 
+
+I will say this: if you don't do some sort of version control, we're not playing in the same league. I don't want you left behind, but I'm not going to twist your arm to come along. Here are some of the reasons I use Git.
+
+But first, let's let my bikemen in Tokyo say hi. They were magic, too. Far as I can tell, engineers are universally always in vogue. Talking about the levers and knowing how to work them are two different things.
+
+<img src="images/bikemen.jpg" width="100%" style="border: 1px solid #ccc; padding: 4px;"> 
+
+##33 Reasons Git is Magic
 
 1. I sleep at night because I use Git.
 2. I never think about botnets because I use Git.
@@ -31,5 +43,7 @@
 29. I know the entire stack of my site. That means from the base level of the server, to the top level of the design, I know the guts. Because I created them or set them up.
 30. I learned Git and the basics of Linux simultaneously. That was cool.
 31. I published [Git Commit](http://git.gwenbell.com) once I got far enough up the mountain I could pass back what I've learned. I published _Git Commit_ because I think it's cool enough you'll get something out of learning it, too.
+32. Malware. It can't be injected into my site without me knowing about it. Like a charm, Git offers protection against evil doings.
+33. I became an engineer when I started using Git.
 
 <hr />
