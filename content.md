@@ -1,3 +1,5 @@
+<iframe width="100%" src="http://www.youtube.com/embed/wX_5QfGXQQA" frameborder="0" allowfullscreen></iframe>
+
 <p class="lead">Folks keep asking why I'm so into Git right now.</p> 
 
 <audio controls
@@ -5,13 +7,7 @@
 Your user agent does not support the HTML5 Audio element.
 </audio>
 
-I'm into Git the way I was into Rilke when I discovered him. Reading Rilke was magic for me. Likewise, Git. Learning it unlocked something in me. It put me into a group of people whose company I enjoy: engineers. Git pulled me out of the social ghetto and put me in the dev game.
-
-I won't convince you to learn Git. If I have to convince you, you're not ready. When I tried convincing someone face to face, it ended badly, with the person storming off in a huff. To be honest, I wasn't sad to see that person go. We're playing different games now.
-
-If you are ready, I [can help you learn Git](http://git.gwenbell.com). But I'm not going to convince you have to. Git, like Rilke, is its own thing, and I am no longer in the ambassador game. 
-
-I will say this: if you don't do some sort of version control, we're not playing in the same league. I don't want you left behind, but I'm not going to twist your arm to come along. Here are some of the reasons I use Git.
+Here are some of the reasons I use Git.
 
 But first, let's let my bikemen in Tokyo say hi. They were magic, too. Far as I can tell, engineers are universally always in vogue. Talking about the levers and knowing how to work them are two different things.
 
