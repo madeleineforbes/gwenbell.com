@@ -1,13 +1,6 @@
 <iframe width="100%" src="http://www.youtube.com/embed/wX_5QfGXQQA" frameborder="0" allowfullscreen></iframe>
 
-<p class="lead">Folks keep asking why I'm so into Git right now.</p> 
-
-<audio controls
-  src="http://sound.gwenbell.com/sounds/Git_and_Rilke.ogg">
-Your user agent does not support the HTML5 Audio element.
-</audio>
-
-Here are some of the reasons I use Git.
+<p class="lead">I'll tell you 33 reasons I'm so into Git right now.</p> 
 
 But first, let's let my bikemen in Tokyo say hi. They were magic, too. Far as I can tell, engineers are universally always in vogue. Talking about the levers and knowing how to work them are two different things.
 
