@@ -68,9 +68,11 @@ The magazine is Experience Life, and I later did consulting with them and can't 
 
 <blockquote>What sets [Gwen Bell] apart from the slew of young, hip pro-Facebookers out there is that she not only translates the complicated language of social media, she also teaches technologists to unplug. - Sheryl Sulistiawan, Fast Company</blockquote>
 
-**2012-2013** From 2012 to 2013 I unplugged to travel the globe. I sold my iPhone in the Mission and continue to live without a phone. I earned, and earn, my living by writing to the inboxes of [thousands of you](/responses)* located in places all over the globe. I made a living [as a writer](/thework). 
+**2012-2013** From 2012 to 2013 I unplugged to travel the globe. I sold my iPhone in the Mission and continue to live without a phone. I earned, and earn, my living by writing to the inboxes of [thousands of you](/responses) located all over the globe. I made a living [as a writer](/thework). 
 
-**2013** I wanted to know what was next in tech. I flew all over the globe to find out. While I did that, I powered down my social accounts to travel and be _in_ it rather than _reporting about it_. I didn't find what's next in tech. Since I didn't find it, I decided I'd have to create it. I became a programmer. <mark>I taught myself Git, Node.js, JavaScript, Linux, Unix, the command line.</mark> I won a game (after badly losing the first time) of Twilight Imperium to kick it all off. 
+**2013** I wanted to know what was next in tech. I flew all over the globe to find out. While I did that, I powered down my social accounts to travel and be _in_ it rather than _reporting about it_. 
+
+I didn't find what's next in tech. Since I didn't find it, I decided I'd have to create it. I became a programmer. <mark>I taught myself Git, Node.js, JavaScript, Linux, Unix, the command line.</mark> I won a game of Twilight Imperium to kick it off. 
 
 And now. I write, I program and, when it's available, I drink sangria with my housemates in Bed-Stuy, Brooklyn, New York. 
 
