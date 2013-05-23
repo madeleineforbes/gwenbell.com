@@ -14,21 +14,21 @@ Open source means it's collaborative code. This site is built on Express, which 
 
 <h3>Mashups: We've seen this before</h3>
 
-A decade ago photographers started going this route with the creative commons licenses. These licenses say (depending on the license level) take this photograph and do what you will with it.
+A decade ago photographers started using creative commons licenses. Some of these licenses say _take this photograph and do what you will with it_.
 
-It resulted in an uptick in creativity and sharing in the photography world.
+That's resulted in an uptick in creativity and sharing in the photography world.
 
-Open source has been around for years, but I just started getting into it in the last two. I like remixing code. I enjoy cloning down repos to just take a peek at what's going on under the hood. I get to see the inner workings of some of the minds with which I'm most aligned.
+I like remixing code. I enjoy cloning down repos to peek at what's going on under the hood. I get to see the inner workings of some of the minds with which I'm most aligned.
 
 According to my [open source report card](http://osrc.dfm.io/gwenbell), that includes Substack, TJ Holowaychuk and Ev Bogue. I consider myself in good company.
 
-*
+In addition to tech and photography, we see this in the rap community. Girl Talk mashes up songs to make something entirely new. Still, the _core_ of each song he uses is in there. Girl Talk wouldn't exist without the performers who came before him.
 
-We see this in the rap community. A few years ago I got really into this guy Girl Talk. He's still around. He mashes up songs to make something entirely new. But the core of each song he uses is in there. He wouldn't exist without the performers who came before him.
+He doesn't exist without his predecessors. 
 
-He doesn't exist without his predecessors. We don't exist without each other. In no place is this more obvious than open source.
+We don't exist without each other. In no place is this more obvious than open source.
 
-<h3>It's too hard.</h3>
+<h3>Response: It's too hard.</h3>
 
 Those of you many years into your yoga practice, do you remember your first day on the mat? I remember my first yoga class, and I didn't even have a mat. It was hilarious. Hilarious because I had no idea what was going on, nor why I would continue to do it. Let alone how it would impact my life or the lives of those around me.
 
@@ -36,34 +36,33 @@ _It's too hard_ is an easy way to let yourself off the hook. And I'm not trying 
 
 I've become a stronger writer because I've coupled it with programming. I've become a stronger web citizen because I started programming.
 
-<h3>How to start</h3>
+<h3>Next steps: How to start</h3>
 
-As with yoga, you just start. It helps to have a good teacher. If that's not possible, it helps to have good books. I've learned everything from a book first - that's just how I learn.
+As with yoga, you just start. It helps to have a good teacher. If that's not possible, it helps to have good books. I read things in a book first - it's how I learn.
 
-I find it easier to learn the basics from a book and then go to the web to deepen. When I started learning HTML and CSS in 2004, I opened a Visual Quickstart guide. 
+When I started learning HTML and CSS in 2004, I opened a Visual Quickstart guide. It had lay-flat binding, which helped.
 
-It had lay-flat binding, which helped.
+Though I was already a yoga practitioner, I didn't eat well during the time I was getting the basics down. I let myself eat junk food and skip showers.
 
-Though I was already a yoga practitioner, I didn't eat well during the time I was under getting the basics down. I let myself eat junk food and skip showers.
+Once you've gotten the basics, start cloning down repos. You don't have to do anything other than peer into them. I wrote about how to do this in [Git Commit](http://git.gwenbell.com).
 
-Once you've gotten the basics, you can start cloning down repos. Peer into them. I wrote about how to do this in [Git Commit](http://git.gwenbell.com).
+<h3>Response: Why bother?</h3>
 
-<h3>Why bother?</h3>
-
-I'll tell you why I bother: I want to contribute to the web by creating _for_ it, not just _sucking from it_. I give back. Creating [Bitters](http://bitters.gwenbell.com) was a first step in contributing as a programmer. 
+I'll tell you why I bother: I want to contribute to the web by creating _for_ it, not just _sucking from it_. I give back. Creating [Bitters](http://bitters.gwenbell.com) with Ev was a first step in contributing as a programmer. 
 
 How'd I go about that? I built the container I wanted. It's a simple as possible Node.js website. It's the site you're looking at right now.
 
-I get joy when I run across sites using an instance of Bitters. Like last night when I found [Demis Flanagan's](http://www.demisflanagan.linkpc.net/). Demis didn't ping me to let me know he'd cloned down and created a Bitters site, I just stumbled across it.
+I get joy when I run across sites using an instance of Bitters. Like last night. I found [Demis Flanagan's](http://www.demisflanagan.linkpc.net/). Demis didn't ping me to let me know he'd cloned down and created a Bitters site, I just stumbled across it.
 
 It was that moment, it was just. Yeah, Demis!
 
-To know I might have shaved some hours off the time it would have taken him to get a Node site up. To know I might have contributed in some small way to his work, to his life. That is why I bother.
+To know I might have shaved some hours off the time it would have taken him to get a Node site up. To know he can now spend those hours bobsledding if he wishes. To know I might have contributed in some small way to his work, to his life. That is why I bother.
 
 How do we become more self-reliant citizens of the web? By committing. By contributing. 
 
 We become self-reliant citizens of the web one line of code at a time.
 
+Gwen <br />
 23 May 2013 <br />
 Brooklyn, New York <br />
 
