@@ -7,7 +7,9 @@ About
 
 <blockquote>More than anything, you've inspired me to continue to challenge my attachments and "the way things are done" – both personally and professionally. - Kathleen Shannon, <a href="http://braidcreative.com">Braid Creative</a></blockquote>
 
-My name is Gwen Bell. I live in Brooklyn, New York. I was born in July 1981, in Jacksonville, Florida, to a beautiful, unwed mother. Bell is my maternal line; no father is listed on my birth certificate.
+My name is Gwen Bell. I live in Brooklyn, New York. I was born in July 1981, in Jacksonville Florida to a beautiful, unwed mother. Bell is my maternal line; no father is listed on my birth certificate. Pictured: Bub, my mom's dad. His mom, Nana. Mom, and me at one.
+
+<img src="/images/nana-bub-mom-gwen.jpg" style="width: 40%; float: right; margin-left: 1em; border: 1px solid #ccc; padding: 4px; margin-bottom: 1em; box-shadow: 1px 3px 3px #ccc;"/>
 
 I moved to New York City in March 2013. There is nowhere else I'd rather be. I know. Because I checked.
 
@@ -20,6 +22,8 @@ I [write](http://git.gwenbell.com) and [program](/git) for a living. I write to 
 <a name="unresume"></a>
 
 <h3>What I've done so far</h3>
+
+<img src="/images/espresso.jpg" style="width: 50%; float: right; margin-left: 1em; border: 1px solid #ccc; padding: 4px; margin-bottom: 1em; box-shadow: 1px 3px 3px #ccc;"/>
 
 **An unresume. I wrote this on 16 May 2013 while drinking sangria, made by an authentic Spaniard.**
 
@@ -41,17 +45,26 @@ NOVA eventually went bankrupt, but before it did I taught as an English teacher 
 
 **2006-2007** I co-ran Yoga Garden until 2007, when I became a freelance designer with a company called Zaadz. Zaadz was later acquired by Gaiam, and before that I did design work, and then traveled all over the States meeting my co-workers I only knew from the internet. Then, I co-founded Buddhist Geeks.
 
-<blockquote>Gwen helped us see through our "fluff" and recognize very basic elements of our website that needed tweaking and attention." - Sharon Halkovics, Director of Home Cook at Culinary School of the Rockies</blockquote>
+<blockquote>Gwen helped us see through our "fluff" and recognize very basic elements of our website that needed tweaking and attention." - Sharon Halkovics, former Director at the Culinary School of the Rockies</blockquote>
 
 **2007-2009** In 2007 my house burned down, and with it the design firm that was located in the front of the house. The Red Cross helped out a ton. While I was living on couches, <mark>I taught yoga during the first Startup Weekend</mark>, which is where I got the idea I might want to work in the startup world.
 
-In that time frame, I went to BlogHer for the first time. I decided the next year I wanted to speak at the conference. I also live-tweeted it. That was early days for Twitter, and nobody was live-tweeting. I just thought it would be a crazy idea, so I did.
+<img src="/images/macbook-after-fire.jpg" style="width: 50%; float: right; margin-left: 1em; border: 1px solid #ccc; padding: 4px; margin-bottom: 1em; box-shadow: 1px 3px 3px #ccc;"/>
+
+I took a photo of one of the MacBooks that didn't make it out. That photo went kind of viral in the tech world. Lots of people thought it was not a laptop at all, but a s'more. They saved everything off the hard drive.
+
+Around this time, I went to BlogHer for the first time. I decided the next year I wanted to speak at the conference. I also live-tweeted it. That was early days for Twitter, and nobody was live-tweeting. I just thought it would be a crazy idea, so I did.
 
 I spoke at BlogHer the very next year, 2008. I spoke about syndicating your content. <mark>During this time I was a brand ambassador for Nintendo.</mark> I played games and wrote about them sometimes. Sweet gig, as you might imagine.
 
 **2009-2010** In 2009 I married a handsome programmer. We are now divorced, and at the time I learned a lot from him about programming. He worked for a startup that was acquired. While on our post-wedding vacation, I got an invite to Social Web Foo Camp, which I accepted. During that time I did commercial for HP, launched Best 09 (which grew to 730 participants in a few weeks).
 
-**2010-2012** From 2010 to 2013 I earned my living as a writer, consultant and speaker. I signed with a speaking agent, spoke at engagements all over the country, taught social web classes at the University of Colorado at Boulder, <mark>and was featured on the cover of a magazine for their 'Discover Something Wonderful' edition</mark>. The magazine is Experience Life, and I later did consulting with them and can't say enough good things about that team. I ran Reverb 10 with two fine people, from November 30 to December 30 2010. Three thousand people participated.
+**2010-2012** From 2010 to 2013 I earned my living as a writer, consultant and speaker. I signed with a speaking agent, spoke at engagements all over the country, taught social web classes at the University of Colorado at Boulder, <mark>and was featured on the cover of a magazine for their 'Discover Something Wonderful' edition</mark>. 
+
+
+<img src="/images/magazine-cover.jpg" style="width: 50%; float: right; margin-left: 1em; border: 1px solid #ccc; padding: 4px; margin-bottom: 1em; box-shadow: 1px 3px 3px #ccc;"/>
+
+The magazine is Experience Life, and I later did consulting with them and can't say enough good things about that team. I ran Reverb 10 with two fine people, from November 30 to December 30 2010. Three thousand people participated.
 
 <blockquote>What sets [Gwen Bell] apart from the slew of young, hip pro-Facebookers out there is that she not only translates the complicated language of social media, she also teaches technologists to unplug. - Sheryl Sulistiawan, Fast Company</blockquote>
 
@@ -66,9 +79,11 @@ And now. I write, I program and, when it's available, I drink sangria with my ho
 
 <a name="yoga"></a>
 
-
 <h3>Yoga </h3>
 
 I got my first laptop the same year I started practicing yoga. I taught myself HTML and CSS so I could make the site for my yoga studio in Japan. I see my time on the mat informing my time on the machine, a tiny infinity. The work I do on the mat shows up on the command line. I wrote the practices that inform my work into [Digital Warriorship](/thework).
+
+<img src="/images/bell-on-green.jpg" style="width: 100%; float: none; margin-left: none; border: 1px solid #ccc; padding: 4px; margin-bottom: 1em; box-shadow: 1px 3px 3px #ccc;"/>
+
 
 <hr />
