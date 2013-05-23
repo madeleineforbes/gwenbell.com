@@ -49,9 +49,6 @@ In that time frame, I went to BlogHer for the first time. I decided the next yea
 
 I spoke at BlogHer the very next year, 2008. I spoke about syndicating your content. <mark>During this time I was a brand ambassador for Nintendo.</mark> I played games and wrote about them sometimes. Sweet gig, as you might imagine.
 
-<blockquote>Gwen Bell is a perfect example of someone who nails the community thing. She’s smart. She’s insightful. And despite her celebrity status, she is one of the most grounded people I’ve ever met. - Sarah J Bray</blockquote>
-
-
 **2009-2010** In 2009 I married a handsome programmer. We are now divorced, and at the time I learned a lot from him about programming. He worked for a startup that was acquired. While on our post-wedding vacation, I got an invite to Social Web Foo Camp, which I accepted. During that time I did commercial for HP, launched Best 09 (which grew to 730 participants in a few weeks).
 
 **2010-2012** From 2010 to 2013 I earned my living as a writer, consultant and speaker. I signed with a speaking agent, spoke at engagements all over the country, taught social web classes at the University of Colorado at Boulder, <mark>and was featured on the cover of a magazine for their 'Discover Something Wonderful' edition</mark>. The magazine is Experience Life, and I later did consulting with them and can't say enough good things about that team. I ran Reverb 10 with two fine people, from November 30 to December 30 2010. Three thousand people participated.
