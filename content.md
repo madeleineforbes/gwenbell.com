@@ -1,5 +1,9 @@
 #On Open Source: I Don't Exist Without You
 
+<p class="lead">Preamble: If we're a combination of the five people with whom we spend the most time, I am one part <a href="http://substack.net/">Substack</a>, one part <a href="http://tjholowaychuk.com/">TJ Holowaychuk</a>, one part <a href="http://evbogue.com/">Ev Bogue</a>, one part <a href="https://duckduckgo.com/?q=rilke">Rilke</a> and one part <a href="https://duckduckgo.com/?q=steve+jobs">Steve Jobs</a>. Those last two keep visiting from the astral plane.</p>
+
+<hr />
+
 You send messages. You ask: _How do I start programming? How do I become a web developer? How can I do what you do?_ 
 
 You say: It's obvious from your Gittips [you're making some money](https://www.gittip.com/gwenbell/). It seems like it'll be good for me. But. How do I start?
