@@ -1,106 +1,66 @@
 About
 =====
 
-<a href="#dailylife">Daily Life</a> | <a href="#unresume">Unresume</a> | <a href="#yoga">Yoga</a>
+<a href="#brief">In Brief</a> | <a href="#unresume">Unresume</a> | <a href="#yoga">Yoga</a>
 
+<a name="brief"></a>
 
-<blockquote>
-	More than anything, you've inspired me to continue to challenge my attachments and "the way things are done" – both personally and professionally. - Kathleen Shannon, <a href="http://braidcreative.com">Braid Creative</a>
-	</blockquote>
+<blockquote>More than anything, you've inspired me to continue to challenge my attachments and "the way things are done" – both personally and professionally. - Kathleen Shannon, <a href="http://braidcreative.com">Braid Creative</a></blockquote>
 
-My given name is Gwen Bell. I live in Brooklyn, New York.
+My name is Gwen Bell. I live in Brooklyn, New York. I was born in July 1981, in Jacksonville, Florida, to a beautiful, unwed mother. Bell is my maternal line; no father is listed on my birth certificate.
 
-I moved here in March 2013. Before New York I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech. I didn't find it out there, so I decided to program it myself.
+I moved to New York City in March 2013. There is nowhere else I'd rather be. I know. Because I checked.
+
+Before New York I spent 2012 traveling the globe (Berlin, London, Singapore, Japan, and Mexico). As I traveled, I looked for what's next in tech. I didn't find it out there, so I decided to program it myself.
 
 I [write](http://git.gwenbell.com) and [program](/git) for a living. I write to [inboxes](https://tinyletter.com/gwenbell) and this site. I earn from the products I create, and from what I think of as [micro-genius grants](http://gittip.com/gwenbell).
 
-<a name="dailylife"></a>
-
-
 <hr />
-
-
-<h3>Day in my life</h3>
-
-I wake up each morning early to get a writing and programming session in before the rest of the house awakens. I live with three housemates, <del>partner</del> <del>lover</del> <a href="http://evbogue.com">star twin</a> and a cat.
-
-I wake up to the sound of birds chirping and cars rolling. I pull on a pair of socks and shuffle across the hard wood floors to the kitchen. I have a tiny espresso cup of Café Bustelo from a stovetop espresso maker.
-
-The first thing I do when I open my laptop is power it on. Then I 
-
-	$ command space 
-
-into the terminal. (That's a shortcut in Quicksilver.)
-
-From the terminal I open my text editor, Sublime Text 2. 
-
-Once open, I start writing from the top. When I'm done with my morning writing session, I take a bath.
-
-I eat huevos rancheros or cranberry cinnamon oatmeal for breakfast.
-
-The afternoon gets kicked off with a strategy session with [Ven](http://twitter.com/venportman). After the strategy session, most days I walk either to the Bed-Stuy donut shop for a chocolate covered cocao nib donut and the Janet Jackson that's usually playing. 
-
-Or, I eat and then walk to Manhattan. 
-
-While in Manhattan, I eat 2 Bros because I find the marinara sauce tasty and it's a dollar a slice. I add a section or two to whatever living documents I'm currently writing. I get in my [commits](http://github.com/gwenbell) for the day by making site tweaks, clicking around on the faces of programmers whose work I [follow](http://twitter.com/gwenbell) and working on [Bitters](http://bitters.gwenbell.com).
-
-Throughout the day I see a wide variety of people come through my front door. I commune with faeries and dead people by astral planking at least once a day. I do late night forward folds with the candles lit. Each week I go to [yoga to the people](http://yogatothepeople.com) to have myself stretched by the collective.
-
-Most days I walk 10,000+ steps.
-
-In the evenings, I connect with my housemates, program and practice yoga, do long-form writing and [conduct inbox correspondence](mailto:gwen@gwenbell.com). 
-
-I go to bed by midnight most nights. The last thing I do before I fall asleep is appreciations.
-
-<hr />
-
-I love to be challenged and I double love juicy questions. 
-
-If you have programming questions, especially to do with Node basics, Git, Express, Jade, Stylus or Markdown - that's the beat I'm currently working - [send them](mailto:gwen@gwenbell.com). I read each message that crosses my screen, even if I don't reply right away. If you want my immediate response, submit a [pull request](http://github.com/gwenbell). I love merging pull requests!
 
 <a name="unresume"></a>
-
-<hr />
 
 <h3>What I've done so far</h3>
 
 **An unresume. I wrote this on 16 May 2013 while drinking sangria, made by an authentic Spaniard.**
 
-I've only created a resume once. Including this, twice. Actually, three times. I made a full-body resume once (and got offered the job, and turned it down). I wrote about that in Reverb. 
+<mark>I do something as long as it's a challenge. Once I've mastered it, I walk away. Like walking away from an empty husk.</mark>
 
-I've never uttered the phrase, "this'll look great on my resume," ever. Not once. That said, I've been asked for a resume for a position I find intriguing, and it strikes me as a challenge to do this. And I only do something if it's a challenge. 
+**2003** In May 2003, I graduated from UNC-Chapel Hill with a major in English Lit and a minor in Women's Studies. Bill Cosby spoke at graduation. He made the parents and grandparents stand up. The graduates clapped for them, because, Bill Cosby said, they were the reason we were graduating. He was right - <mark>my grandparents, Nunu and Bub, were and are my biggest champions</mark>. They took me in after my mom died, and then they raised me as their own child.
 
-Which may be my life nut graf: I do something as long as it's a challenge. Once I've mastered it, I walk away. Like walking away from an empty husk.
+Following graduation, I had big plans to take on the world. I'd just spent a year studying abroad in England and a summer and winter in Morocco, and I wanted to travel some more. So, I did.
 
-**2003** In May 2003, I graduated from UNC-Chapel Hill with a major in English Lit and a minor in Women's Studies. Bill Cosby was the graduation speaker. He made the parents and grandparents stand up, because, he said, they were the reason we were graduating. He was right - my grandparents, Nunu and Bub, were and are my biggest champions.
-
-As for me, I had big plans to take on the world. I'd just spent a year studying abroad in England and a summer and winter in Morocco, and I wanted to travel some more. So, I did.
-
-Before I flew out, I started a LiveJournal account. That's how I became a digital publisher. I just started writing for my grandmother, Nunu, so she could track my progress (or stories or horror stories) abroad.
+Before I flew out, <mark>I started a LiveJournal account. That's how I became a digital publisher</mark>. I just started writing for Nunu, so she could track my progress (or stories or horror stories) abroad.
 
 **2003** I flew to Japan with a company called NOVA. I tried to get upgraded to first class by wearing a suit. Denied.
 
-NOVA eventually went bankrupt, but before it did I taught as an English teacher in the heart of Tokyo, in Kokubunji. I wore a suit every day and I hated the suit but I loved the teaching. I saw an ad for a pilot program. NOVA needed teachers in elementary schools. I applied. I was one of only four to get the position. I was the only one who got the offer of five days teaching (instead of 3 or 4) in the elementary school.
+NOVA eventually went bankrupt, but before it did I taught as an English teacher in the heart of Tokyo, in Kokubunji. I wore a suit every day and I hated the suit but I loved the teaching. I saw an ad for a pilot program. NOVA needed teachers in elementary schools. I applied. I was one of only four to get the position. <mark>To start my career, I taught English to Japanese children for one year</mark>.
 
 **2004** In 2004 I started teaching yoga. I taught it at Paper Tiger, a donation-based studio I started above an izakaya in downtown Kiryu. My first students were the Japanese teachers from Yamamae. I was ready for the next challenge, and I taught myself CSS and HTML to prepare for it.
 
-**2005** In 2005, at the completion of a year teaching in the elementary school, I cranked it to the next level. I rolled all my teaching money into the key money and deposit on a studio in Yokohama, a city by the sea that I loved, and still do. 
+**2005** In 2005, at the completion of a year teaching in the elementary school, I cranked it to the next level. <mark>I rolled all my teaching money into the key money and deposit on a yoga studio in Yokohama, Japan</mark>. Besides the studio, Patrick and I also co-podcasted Zen is Stupid for three and a half years.
 
-**2006-2007** The studio, Yoga Garden, had an actual garden. I co-ran it until 2007, when I became a freelance designer with a company called Zaadz. Zaadz was later acquired by Gaiam, but before that I did design work, and then traveled all over the States meeting my co-workers I only knew from the internet.
+**2006-2007** I co-ran Yoga Garden until 2007, when I became a freelance designer with a company called Zaadz. Zaadz was later acquired by Gaiam, and before that I did design work, and then traveled all over the States meeting my co-workers I only knew from the internet. Then, I co-founded Buddhist Geeks.
 
-**2007-2009** In 2007 my house burned down, and with it the design firm that was located in the front of the house. The Red Cross helped out a ton. While I was living on couches, I taught yoga during the first Startup Weekend, which is where I got the idea I might want to work in the startup world.
+<blockquote>Gwen helped us see through our "fluff" and recognize very basic elements of our website that needed tweaking and attention." - Sharon Halkovics, Director of Home Cook at Culinary School of the Rockies</blockquote>
 
-In that time frame, I went to BlogHer for the first time. I decided the next year I wanted to speak at the conference. I also live-tweeted it. That was early days for Twitter, and nobody was live-tweeting but I just thought it would be a crazy idea, so I did.
+**2007-2009** In 2007 my house burned down, and with it the design firm that was located in the front of the house. The Red Cross helped out a ton. While I was living on couches, <mark>I taught yoga during the first Startup Weekend</mark>, which is where I got the idea I might want to work in the startup world.
 
-I spoke at BlogHer the very next year, 2008, about syndicating your content. During this time I was a brand ambassador for Nintendo. I played games and wrote about them sometimes. Sweet gig, as you might imagine.
+In that time frame, I went to BlogHer for the first time. I decided the next year I wanted to speak at the conference. I also live-tweeted it. That was early days for Twitter, and nobody was live-tweeting. I just thought it would be a crazy idea, so I did.
 
-**2009-2010** In 2009 I married a handsome programmer. We are now divorced, and at the time I learned a lot from him about programming because he worked for a startup that was later acquired. While on our post-wedding vacation, I got an invite to Social Web Foo Camp, which [I accepted](/git).
+I spoke at BlogHer the very next year, 2008. I spoke about syndicating your content. <mark>During this time I was a brand ambassador for Nintendo.</mark> I played games and wrote about them sometimes. Sweet gig, as you might imagine.
 
-**2010-2012** From 2010 to 2013 I earned my living as a writer, consultant and speaker. I signed with a speaking agent, spoke at engagements all over the country, taught social web classes at the University of Colorado at Boulder, and was featured on the cover of a magazine for their 'Discover Something Wonderful' edition. The magazine is Experience Life, and I later did consulting with them and can't say enough good things about that team.
+<blockquote>Gwen Bell is a perfect example of someone who nails the community thing. She’s smart. She’s insightful. And despite her celebrity status, she is one of the most grounded people I’ve ever met. - Sarah J Bray</blockquote>
 
-**2012-2013** From 2012 to 2013 I traveled the globe, writing to the inboxes of [thousands of you](/responses)* located in places all over the globe. I made a living [as a writer](/thework). 
 
-**2013** I wanted to know what was next in tech. I flew all over the globe to find out. While I did that, I powered down my social accounts to travel and be _in_ it rather than reporting about it to the social web. I didn't find what's next in tech. Since I didn't find it, I decided I'd have to create it. I became a programmer. I taught myself Git, Node.js, JavaScript, Linux, Unix, the command line. I won a game (after badly losing the first time) of Twilight Imperium to kick it all off. 
+**2009-2010** In 2009 I married a handsome programmer. We are now divorced, and at the time I learned a lot from him about programming. He worked for a startup that was acquired. While on our post-wedding vacation, I got an invite to Social Web Foo Camp, which I accepted. During that time I did commercial for HP, launched Best 09 (which grew to 730 participants in a few weeks).
+
+**2010-2012** From 2010 to 2013 I earned my living as a writer, consultant and speaker. I signed with a speaking agent, spoke at engagements all over the country, taught social web classes at the University of Colorado at Boulder, <mark>and was featured on the cover of a magazine for their 'Discover Something Wonderful' edition</mark>. The magazine is Experience Life, and I later did consulting with them and can't say enough good things about that team. I ran Reverb 10 with two fine people, from November 30 to December 30 2010. Three thousand people participated.
+
+<blockquote>What sets [Gwen Bell] apart from the slew of young, hip pro-Facebookers out there is that she not only translates the complicated language of social media, she also teaches technologists to unplug. - Sheryl Sulistiawan, Fast Company</blockquote>
+
+**2012-2013** From 2012 to 2013 I unplugged to travel the globe. I sold my iPhone in the Mission and continue to live without a phone. I earned, and earn, my living by writing to the inboxes of [thousands of you](/responses)* located in places all over the globe. I made a living [as a writer](/thework). 
+
+**2013** I wanted to know what was next in tech. I flew all over the globe to find out. While I did that, I powered down my social accounts to travel and be _in_ it rather than _reporting about it_. I didn't find what's next in tech. Since I didn't find it, I decided I'd have to create it. I became a programmer. <mark>I taught myself Git, Node.js, JavaScript, Linux, Unix, the command line.</mark> I won a game (after badly losing the first time) of Twilight Imperium to kick it all off. 
 
 And now. I write, I program and, when it's available, I drink sangria with my housemates in Bed-Stuy, Brooklyn, New York. 
 
