@@ -7,9 +7,7 @@ Writing
 
 <blockquote>Your passion and dedication are highly admirable and have inspired me. - JPR </blockquote>
 
-<blockquote>What sets [Gwen Bell] apart from the slew of young, hip pro-Facebookers out there is that she not only translates the complicated language of social media, she also teaches technologists to unplug. - Sheryl Sulistiawan, Fast Company</blockquote>
-
-Notes on the writing
+**Notes on the writing**
 
 <ol>
 	<li>I don't hard link into things. I delete often.</li> 
@@ -215,8 +213,6 @@ _Mmhmm, well, alright honey. Call your grandmother, she's over at Et's._
 
 9 May 2013 <br />
 Brooklyn, New York <br />
-
-<hr />
 
 <a name="death"></a>
 
