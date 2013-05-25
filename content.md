@@ -1,8 +1,10 @@
-#On Open Source: I Don't Exist Without You
+###New Writing
 
-<p class="lead">Preamble: If we're a combination of the five people with whom we spend the most time, I am one part <a href="http://substack.net/">Substack</a>, one part <a href="http://tjholowaychuk.com/">TJ Holowaychuk</a>, one part <a href="http://evbogue.com/">Ev Bogue</a>, one part <a href="https://duckduckgo.com/?q=rilke">Rilke</a> and one part <a href="https://duckduckgo.com/?q=steve+jobs">Steve Jobs</a>. Those last two keep visiting from the astral plane.</p>
+<p class="lead">New piece [on the _Terminal_](http://gwenbell.com/writing#death) writing process.</p> _Terminal_ enters the world on Tuesday, 28 May 2013, via the letter. See sidebar to become a reader if you're not already. 
 
-<hr />
+###On Open Source
+
+If we're a combination of the five people with whom we spend the most time, I am one part <a href="http://substack.net/">Substack</a>, one part <a href="http://tjholowaychuk.com/">TJ Holowaychuk</a>, one part <a href="http://evbogue.com/">Ev Bogue</a>, one part <a href="https://duckduckgo.com/?q=rilke">Rilke</a> and one part <a href="https://duckduckgo.com/?q=steve+jobs">Steve Jobs</a>.Those last two keep visiting from the astral plane.
 
 You send messages. You ask: _How do I start programming? How do I become a web developer? How can I do what you do?_ 
 
