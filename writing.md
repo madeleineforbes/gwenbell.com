@@ -5,16 +5,6 @@ Writing
 
 <blockquote>I find it so refreshing how you start over from scratch again and again... not only with the website but also the different networks and platforms you use. Just wanted to let you know that I love what you do - in every aspect - and that you're such an inspiration for me! - RS </blockquote>
 
-**4 notes on the writing**
-
-<ol>
-	<li>I don't permalink.</li> 
-	<li>Anything you read here is written in disappearing ink.</li> 
-	<li>If you're looking for a piece and can't find it, check the [Git commits](http://github.com/gwenbell).</li>
-	<li>If you'd like work I won't delete as you're reading it, buy <a href="http://gwenbell.com">The Work</a> or <a href="http://git.gwenbell.com">Git Commit</a>.</li>
-
-			</ol>
-
 <a name="tech"></a>
 
 
@@ -23,7 +13,7 @@ Writing
 
 <h1>Technical Writing</h1>
 
-##On Open Source: I Don't Exist Without You
+###On Open Source: I Don't Exist Without You
 
 You send messages. You ask: _How do I start programming? How do I become a web developer? How can I do what you do?_ 
 
@@ -33,7 +23,7 @@ The answer is you already have. Reading this, you're looking at words powered by
 
 Open source means it's collaborative code. This site is built on Express, which TJ Holowaychuk first put into the world. And it's powered by Node.js, which Ryan Dhal first put into the world.
 
-<h3>Mashups: We've seen this before</h3>
+<h4>Mashups: We've seen this before</h4>
 
 A decade ago photographers started going this route with the creative commons licenses. These licenses say (depending on the license level) take this photograph and do what you will with it.
 
@@ -49,7 +39,7 @@ We see this in the rap community. A few years ago I got really into this guy Gir
 
 He doesn't exist without his predecessors. We don't exist without each other. In no place is this more obvious than open source.
 
-<h3>It's too hard.</h3>
+<h4>It's too hard.</h4>
 
 Those of you many years into your yoga practice, do you remember your first day on the mat? I remember my first yoga class, and I didn't even have a mat. It was hilarious. Hilarious because I had no idea what was going on, nor why I would continue to do it. Let alone how it would impact my life or the lives of those around me.
 
@@ -57,7 +47,7 @@ _It's too hard_ is an easy way to let yourself off the hook. And I'm not trying 
 
 I've become a stronger writer because I've coupled it with programming. I've become a stronger web citizen because I started programming.
 
-<h3>How to start</h3>
+<h4>How to start</h4>
 
 As with yoga, you just start. It helps to have a good teacher. If that's not possible, it helps to have good books. I've learned everything from a book first - that's just how I learn.
 
@@ -69,7 +59,7 @@ Though I was already a yoga practitioner, I didn't eat well during the time I wa
 
 Once you've gotten the basics, you can start cloning down repos. Peer into them. I wrote about how to do this in [Git Commit](http://git.gwenbell.com).
 
-<h3>Why bother?</h3>
+<h4>Why bother?</h4>
 
 I'll tell you why I bother: I want to contribute to the web by creating _for_ it, not just _sucking from it_. I give back. Creating [Bitters](http://bitters.gwenbell.com) was a first step in contributing as a programmer. 
 
@@ -286,6 +276,36 @@ Brooklyn, New York <br />
 
 <h1>Writing on Death</h1>
 
+###Tuesday. To the Letter.
+
+I'm coming into the final stretch for _Terminal_. 
+
+I remember hearing the phrase, I didn't write that, it wrote me. And I remember thinking, every time I heard that, yeah fucking right you didn't write it. If you didn't write it, who wrote it? Because someone had to show up to the page.
+
+Now, I get it. I mean, I _get_ it because I _got_ this one. I got _Terminal_ from the astral plane. I think that sounds weird as fuck. I think it sounds like I was possessed or something. And I guess in a way I have been.
+
+It started with a visit from my mom. She visits about once every decade, but she's visited twice in the time I've been in the city. I watched Ghostbusters right before I moved here. And it sounds absurd to me, but I feel the spirits in the crypts as I walk past on my way to the Japaneast Village. 
+
+I went in there once, and there were dimes and nickels, and pennies, all over those headstones. And many of the headstones were wiped nearly clean, their names and dates of deaths and epitephs...wiped away by the thousands of feet that have walked in and out of that crypt through the years. 
+
+Who is next? This morning I went into the closet, literally, because it's cold in the house right now and I wanted warmth, so I went in there with the sleeping bag that operates as a duvet cover, and I went in there and the faeries, who are always there, were there.
+
+And so was Biggie Smalls. He talked to me about privacy in an open world. He talked to me about stashes. 
+
+It was ripe in there by the time I rolled out. I mean, me and Biggie, plus faeries in the closet? That is a lot of body.
+
+Who is next? Mom. She is up. 
+
+Steve Jobs. Alan Watts. The faeries who are shot all through this. Where they're from, why they arrived, what happens with them, where you can find them.
+
+Tuesday. To the letter. 
+
+<hr />
+
+25 May 2013 <br />
+Brooklyn, New York <br />
+Cinder and Smoke <br />
+
 ###Come Out Clean
 
 I'm holding the certificate of my mom's death. It's rusty paper clipped together with the paperwork terminating my father's parental rights.
@@ -330,7 +350,7 @@ Well, honey, I don't even think _I_ know her social security number.
 
 <hr />
 
-Then I called Nunu, later on.
+I called Nunu.
 
 We were out in the woods stripping out fish entrails.
 
