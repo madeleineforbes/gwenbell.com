@@ -6,10 +6,8 @@ Writing
 <blockquote>I find it so refreshing how you start over from scratch again and again... not only with the website but also the different networks and platforms you use. Just wanted to let you know that I love what you do - in every aspect - and that you're such an inspiration for me! - RS </blockquote>
 
 <a name="tech"></a>
-
-
-<hr />
-
+<br />
+<br />
 
 <h1>Technical Writing</h1>
 
@@ -19,33 +17,33 @@ You send messages. You ask: _How do I start programming? How do I become a web d
 
 You say: It's obvious from your Gittips [you're making some money](https://www.gittip.com/gwenbell/). It seems like it'll be good for me. But. How do I start?
 
-The answer is you already have. Reading this, you're looking at words powered by code that I wrote. You're standing, right now, in an open source house called Bitters.
+The answer is you already have. Reading this, you're looking at words powered by code I write. You're standing, right now, in an open source house called [Bitters](http://bitters.gwenbell.com).
 
-Open source means it's collaborative code. This site is built on Express, which TJ Holowaychuk first put into the world. And it's powered by Node.js, which Ryan Dhal first put into the world.
+Open source means it's collaborative code. This site is built on Express, which [TJ Holowaychuk](http://tjholowaychuk.com/) first put into the world. And it's powered by Node.js, which Ryan Dhal (currently on sabbatical from what I can tell) first put into the world.
 
-<h4>Mashups: We've seen this before</h4>
+<h4>Mashups: We've seen this before, and yet.</h4>
 
 A decade ago photographers started going this route with the creative commons licenses. These licenses say (depending on the license level) take this photograph and do what you will with it.
 
 It resulted in an uptick in creativity and sharing in the photography world.
 
-Open source has been around for years, but I just started getting into it in the last two. I like remixing code. I enjoy cloning down repos to just take a peek at what's going on under the hood. I get to see the inner workings of some of the minds with which I'm most aligned.
+Open source has been around for years, but I just started getting into it in the last two. I like remixing code. I enjoy cloning down repos to peek at what's going on under the hood. I get to see the inner workings of some of the minds with which I'm most fascinated and aligned.
 
-According to my [open source report card](http://osrc.dfm.io/gwenbell), that includes Substack, TJ Holowaychuk and Ev Bogue. I consider myself in good company.
+According to my [open source report card](http://osrc.dfm.io/gwenbell), those minds include [Substack](https://github.com/substack), [TJ Holowaychuk](https://github.com/visionmedia) and [Ev Bogue](http://evbogue.com).
 
-*
+We see this in this kind of collaboration in the rap community. A few years ago I got into this guy Girl Talk. He's still around. He mashes up songs to make something entirely new. Still, the core from each song he samples is in there. 
 
-We see this in the rap community. A few years ago I got really into this guy Girl Talk. He's still around. He mashes up songs to make something entirely new. But the core of each song he uses is in there. He wouldn't exist without the performers who came before him.
+He wouldn't exist without the performers who came before him. He doesn't exist without his predecessors. 
 
-He doesn't exist without his predecessors. We don't exist without each other. In no place is this more obvious than open source.
+We don't exist without each other. In no place is this more obvious than open source.
 
 <h4>It's too hard.</h4>
 
-Those of you many years into your yoga practice, do you remember your first day on the mat? I remember my first yoga class, and I didn't even have a mat. It was hilarious. Hilarious because I had no idea what was going on, nor why I would continue to do it. Let alone how it would impact my life or the lives of those around me.
+Those of you many years into your yoga practice, do you remember your first day on the mat? I remember my first yoga class. I didn't even have a mat. It was hilarious. Hilarious because I had no idea what was going on, nor why I would continue to do it. Let alone how it would impact my life or the lives of those around me.
 
 _It's too hard_ is an easy way to let yourself off the hook. And I'm not trying to get you on the hook, though if you're reading this there's probably a niggling feeling in you: she's right. I gotta go deeper. 
 
-I've become a stronger writer because I've coupled it with programming. I've become a stronger web citizen because I started programming.
+I've become a stronger writer because I've coupled it with programming. I've become a stronger web citizen because I started programming. And I know [I'm not the only one](http://madeleineforbes.co.uk/madeleineforbes.co.uk/code.html).
 
 <h4>How to start</h4>
 
@@ -57,13 +55,13 @@ It had lay-flat binding, which helped.
 
 Though I was already a yoga practitioner, I didn't eat well during the time I was under getting the basics down. I let myself eat junk food and skip showers.
 
-Once you've gotten the basics, you can start cloning down repos. Peer into them. I wrote about how to do this in [Git Commit](http://git.gwenbell.com).
+As of May 2013, I recommend Ev's book, [Design Your Website](http://design.evbogue.com/). (Disclosure: I'm the proof-reading editor.) Once you've gotten the basics, you can start cloning down repos. Peer into them. I wrote about how to do this in [Git Commit](http://git.gwenbell.com).
 
 <h4>Why bother?</h4>
 
-I'll tell you why I bother: I want to contribute to the web by creating _for_ it, not just _sucking from it_. I give back. Creating [Bitters](http://bitters.gwenbell.com) was a first step in contributing as a programmer. 
+I'll tell you why I bother. I want to contribute to the web by creating _for_ it, not just _sucking from it_. I give back. Creating [Bitters](http://bitters.gwenbell.com) was a first step in contributing as a programmer. 
 
-How'd I go about that? I built the container I wanted. It's a simple as possible Node.js website. It's the site you're looking at right now.
+How'd I go about that? I built the container I wanted for my work. It's a simple as possible Node.js website. It's the site you're looking at right now.
 
 I get joy when I run across sites using an instance of Bitters. Like last night when I found [Demis Flanagan's](http://www.demisflanagan.linkpc.net/). Demis didn't ping me to let me know he'd cloned down and created a Bitters site, I just stumbled across it.
 
@@ -82,6 +80,10 @@ Brooklyn, New York <br />
 
 ###Ditch Google for Good
 
+Brooklyn, New York <br />
+17 May 2013 <br />
+Sound of bath running <br />
+
 If you never hit delete, you never know what you have. To find out what you have, delete.
 
 If you want to know how dependent you are on something, get locked out of it. It happened as I sipped on a coconut in Mexico. I got locked out of my Google account - [video about that here](http://www.youtube.com/watch?v=SlLIp-Pltiw&feature=youtu.be) - and realized my digital life was a wobbly, one-legged Google stool. 
@@ -93,11 +95,11 @@ Ditching things requires you make a decision. A series of decisions, starting wi
 **1** Process your inbox. Even with all the systems we've created to streamline our inboxes, we still fail to process them completely. To process it one final time, I went through my entire GMail box and made a decision about every message, stretching back to 2007.
 
 Then I
-<ul>
+<ol>
   <li>moved any sensitive messages to a hard drive</li>
   <li>had conversations with any people I needed to if there were things unresolved</li>
   <li>responded, no matter how old the message was, and did not apologize for doing so</li>
-</ul>
+</ol>
 
 I was already using gwen at gwenbell.com. I was redirecting it to Google. I simply killed the redirect and now use Thunderbird full-time.
 
@@ -123,11 +125,7 @@ Our work becomes more resilient through deletion.
 
 <hr />
 
-If you get something from this work, consider [giving to it](http://gittip.com/gwenbell).
-
-Brooklyn, New York <br />
-17 May 2013 <br />
-Sound of bath running
+If you get something from this work, consider [giving to it](http://gittip.com/gwenbell). If you already support the work, thank you.
 
 ###Total Buy-in
 
