@@ -3,8 +3,6 @@ Presence
 
 ### By Gwen Bell
 
-<a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $97</button></a>
-
 While out for coffee with your buddy. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there. She notices your lack of it.
 
 When you meet a new person and spend 3/4 of the time fondling the phone in your pocket, he notices. Even if he doesn't say so, he notices your lack of it.
