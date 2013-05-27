@@ -1,6 +1,8 @@
 Presence
 ========
 
+<img src="/images/presence.jpg" style="width: 100%; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
+
 ### By Gwen Bell
 
 While out for coffee with your buddy. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there. She notices your lack of it.
@@ -13,7 +15,7 @@ When you're at your son's sporting event and spend it with your digital companio
 
 What's lacking is your presence.
 
-It is not what we say, nor what we create, nor how we delete that matters. Although, yes, they precede and follow us. It is our presence. That is somtehing we can only offer while we're alive. We can only offer our presence _once_. In the moment we are in. Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations if we're hot shit enough. 
+It is not what we say, nor what we create, nor how we delete that matters. Although, yes, they precede and follow us. It is our presence. That is something we can only offer while we're alive. We can only offer our presence _once_. In the moment we are in. Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations if we're hot shit enough. 
 
 Your presence? It is irreplicable. 
 
