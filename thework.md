@@ -3,7 +3,7 @@ Presence
 
 <img src="/images/presence.jpg" style="width: 100%; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
 
-### By Gwen Bell
+#### Gwen Bell, 2011 to 2012
 
 While out for coffee with your buddy. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there. She notices your lack of it.
 
@@ -17,7 +17,7 @@ What's lacking is your presence.
 
 It is not what we say, nor what we create, nor how we delete that matters. Although, yes, they precede and follow us. It is our presence. That is something we can only offer while we're alive. We can only offer our presence _once_. In the moment we are in. Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations if we're hot shit enough. 
 
-Your presence? It is irreplicable. 
+<mark>Your presence? It is irreplicable.</mark> 
 
 Everything I've written points to how to cultivate this presence. I can't reach through the screen and be present with you as you read this, but the people in my life who experience my presence reflect this back to me: my presence stays with them after I leave the room.
 
@@ -27,31 +27,35 @@ I sold my iPhone in the Mission in 2012, and before that I took attention detoxe
 
 I come at you as someone with the experience of an intermediate practitioner, a technologist unwilling to permanently leave the machine because I know the power in it. And also, the wits and guts to know this machine is not the boss of me. 
 
-The moment you know that, the moment you can walk into the bathroom, use the toilet, flush, wash your hands and leave without playing a quick game. The moment you can say no, I won't eat that, to a television commercial. The moment your attention becomes so pure you don't ask for permission to leave a conversation that drains rather than energizes you. 
+The moment you know that, <mark>the moment you can walk into the bathroom, use the toilet, flush, wash your hands and leave without playing a quick game on your phone.</mark> The moment you can say no, I won't eat that, to a television commercial. The moment your attention becomes so pure you don't ask for permission to leave a conversation that drains rather than energizes you. 
 
 In that moment you will no longer need my work. I hope that on that day, you walk away. By the time you get there, you will know how.
 
-### Digital Warriorship | Technical Skill Level: Beginner
+###Presence includes: Digital Warriorship (version 1 and version 2), Reverb and the Attention Detox.
+
+<hr />
+
+#### Digital Warriorship | Technical Skill Level: Beginner | PDF
 
 To be present for others, first see and hear yourself. 
 
-Align your real self with your digital self. From scrolling for empathy to digital sabbaticals, here's how to start developing your presence.
+Align your real self with your digital self. My path from scrolling for empathy to taking digital sabbaticals and what I learned. Here's an introduction to start developing your presence.
 
 ***
 
-### Attention Detox | Technical Skill Level: Beginner
+#### Attention Detox | Technical Skill Level: Beginner | PDF
 
 An Attention Detox helps you keep track of your attention for 168 hours. It's guaranteed to bring into focus how distracted you are, and what you need to do reclaim your attention.
 
 ***
 
-### Reverb | Technical Skill Level: Beginner
+#### Reverb | Technical Skill Level: Beginner | PDF
 
 Once you're aligned, your message can travel. These are the stories of how I did, and do, the work.
 
 ***
 
-### Digital Warriorship II | Technical Skill Level: Beginner
+#### Digital Warriorship II | Technical Skill Level: Beginner | PDF
 
 Experiments in paying better, closer attention.
 
@@ -59,11 +63,15 @@ When I check out, I check in with myself to course-correct. I determine the caus
 
 As of 2013, I'm back on the public web. I bring the work I did then with me, and I will tell you this, my work is in a more powerful place than it has ever been. I know this is a blessing.
 
-May Presence help you as you learn to cultivate yours.
+May _Presence_ help you as you learn to cultivate yours.
 
-<br />
+<a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $97</button></a>
 
-In Japan, whether or not someone will do business with you is based on the first impression they get. They do a presence check.
+When you buy, you get all of this as a single package.
+
+<hr />
+
+In Japan, whether or not someone does business with you is based on the first impression they get. They do a presence check.
 
 When I started giving public talks in 2008, I asked rooms full of tech-savvy listeners to power down their iPhones, or at least put them away.
 
@@ -71,17 +79,13 @@ In yoga class this week in New York, the teacher instructed his students: take y
 
 Nobody even _attempted_ to justify their phone. But. Why don't we make that same choice daily? What's with that tiny box?
 
-In Presence I take you through everything - my first ever offering, _Digital Warriorship_, when I still struggled with digital distraction, to the second version, which takes you a step further into your own attention detox and digital sabbatical. Ways to choose where you place your attention and how to make healthier choices. Reverb shows you what to do with that presence once you've cultivated it - how to be in alignment with your message so you can share - so your presence _travels_ without you.
+In _Presence_ I take you through everything: _Digital Warriorship_, when I still struggled with digital distraction. To the second version, which takes you a step further into your own attention detox and digital sabbatical. You'll learn ways to choose where you place your attention and how to make healthier choices. _Reverb_ shows you what to do with that presence now that you've cultivated it. _Reverb_ helps you get how to be in alignment with your message so you can share it. So your message _travels_ without you.
 
-Money. You can't take that with you when you die.
+Money. Can't take that with you when you die.
 
-And presence. You can't give that from the grave.
+Presence? Can't give _that_ from the grave.
 
 Gwen<br />
-
 Brooklyn, New York <br />
 May 2013 <br />
-
-<a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $97</button></a>
-
 
