@@ -1,39 +1,24 @@
 Presence
-========
+--------
+<a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><img src="/images/presence.jpg" style="width: 100%; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;"></a>
 
-<img src="/images/presence.jpg" style="width: 100%; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;">
+####What is presence? What difference does it make?
 
-#### Gwen Bell, 2011 to 2012
+You go out for coffee. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there when you return. She notices your lack of it. What's lacking is your presence.
 
-While out for coffee with your buddy. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there. She notices your lack of it.
+It is not what we say. It's not what we create. Although, yes our words and creations precede and follow us. It is _our presence_ that matters. Our presence is something we can only offer while we're alive. 
 
-When you meet a new person and spend 3/4 of the time fondling the phone in your pocket, he notices. Even if he doesn't say so, he notices your lack of it.
+We can only offer our presence _once_. In the moment we are in. Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations. 
 
-When you're at a bar with friends but what you really want to be doing is watching tv, at home, alone. They notice your lack of it.
+Your presence? It is irreplicable.
 
-When you're at your son's sporting event and spend it with your digital companion, those who share the event with you notice your lack of it.
-
-What's lacking is your presence.
-
-It is not what we say, nor what we create, nor how we delete that matters. Although, yes, they precede and follow us. It is our presence. That is something we can only offer while we're alive. We can only offer our presence _once_. In the moment we are in. Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations if we're hot shit enough. 
-
-<mark>Your presence? It is irreplicable.</mark> 
-
-Everything I've written points to how to cultivate this presence. I can't reach through the screen and be present with you as you read this, but the people in my life who experience my presence reflect this back to me: my presence stays with them after I leave the room.
-
-I practice cultivating presence. I don't think it's something any of us can buy, though we can buy access to guides to help us practice, to help us deepen into ourselves, so we don't have to check out when we're with other people.
-
-I sold my iPhone in the Mission in 2012, and before that I took attention detoxes, digital sabbaticals, _sesshin_ in Japan, thousands of hours on my own yoga mat and hundreds with my hands on the bodies of the students in my yoga studio in Japan. That is the writer whose words you read as you read this work. 
-
-I come at you as someone with the experience of an intermediate practitioner, a technologist unwilling to permanently leave the machine because I know the power in it. And also, the wits and guts to know this machine is not the boss of me. 
-
-The moment you know that, <mark>the moment you can walk into the bathroom, use the toilet, flush, wash your hands and leave without playing a quick game on your phone.</mark> The moment you can say no, I won't eat that, to a television commercial. The moment your attention becomes so pure you don't ask for permission to leave a conversation that drains rather than energizes you. 
-
-In that moment you will no longer need my work. I hope that on that day, you walk away. By the time you get there, you will know how.
-
-###Presence includes: Digital Warriorship (version 1 and version 2), Reverb and the Attention Detox.
+For the first time, I'm offering a curated collection of the work I created from 2011 to 2012. This is _Presence_.
 
 <hr />
+
+<a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><img src="/images/digitalwarriorship.jpg" style="width: 100%; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;"></a>
+
+<blockquote>If you're someone like me who is working to find your way in the digital world and feel you may benefit from reading the teachings of a unique practitioner technologist, I recommend checking out Digital Warriorship. - Monty McKeever, Tricycle</blockquote>
 
 #### Digital Warriorship | Technical Skill Level: Beginner | PDF
 
@@ -51,6 +36,8 @@ An Attention Detox helps you keep track of your attention for 168 hours. It's gu
 
 #### Reverb | Technical Skill Level: Beginner | PDF
 
+It’s a reverberation when the desire to see it chart its own path becomes greater than the urge to control it. (I think that’s also a definition of love.)
+
 Once you're aligned, your message can travel. These are the stories of how I did, and do, the work.
 
 ***
@@ -65,21 +52,18 @@ As of 2013, I'm back on the public web. I bring the work I did then with me, and
 
 May _Presence_ help you as you learn to cultivate yours.
 
+_Presence_ includes a PDF of Digital Warriorship I, Digital Warriorship II, Reverb and the Attention Detox, for $97.
+
 <a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now | $97</button></a>
 
-When you buy, you get all of this as a single package.
 
 <hr />
 
-In Japan, whether or not someone does business with you is based on the first impression they get. They do a presence check.
+In Japan, whether or not someone does business with you is based on their first impression. They do a presence check.
 
-When I started giving public talks in 2008, I asked rooms full of tech-savvy listeners to power down their iPhones, or at least put them away.
+In yoga class this week in New York, the teacher instructed his students: take your phones off your mats, put them in your bags, unless you can justify them to me. Nobody even _attempted_ to justify their phone. If we can't justify it, why don't we make that same choice daily?
 
-In yoga class this week in New York, the teacher instructed his students: take your phones off your mats, put them in your bags, unless you can justify them to me.
-
-Nobody even _attempted_ to justify their phone. But. Why don't we make that same choice daily? What's with that tiny box?
-
-In _Presence_ I take you through everything: _Digital Warriorship_, when I still struggled with digital distraction. To the second version, which takes you a step further into your own attention detox and digital sabbatical. You'll learn ways to choose where you place your attention and how to make healthier choices. _Reverb_ shows you what to do with that presence now that you've cultivated it. _Reverb_ helps you get how to be in alignment with your message so you can share it. So your message _travels_ without you.
+In _Presence_ you travel through everything: _Digital Warriorship_, when I still struggled with digital distraction. To the second version, which takes you a step further into your own attention detox and digital sabbatical. You'll learn ways to choose where you place your attention and how to make healthier choices. _Reverb_ shows you what to do with that presence now that you've cultivated it. _Reverb_ helps you get how to be in alignment with your message so you can share it. So your message _travels_ without you.
 
 Money. Can't take that with you when you die.
 
