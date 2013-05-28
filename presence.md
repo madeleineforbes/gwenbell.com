@@ -13,17 +13,23 @@ Presence
 
 ### What is presence?
 
-**Q** What is the one thing you can't take with you when you die?
+**Q** What is the _one thing_ you can't give once you're dead?
 
 **A** Your presence.
 
-It's not what we say. It's not what we create. Though our words and creations precede and follow us, it's _our presence_ that matters. Our presence is something we can only offer once, while we're alive. 
+Last week as I was putting the finishing touches on Terminal, which is the final nail in the coffin of Presence, I read Steve Jobs's wiki. Did you know his remains are in an unmarked grave? I can only imagine it's so there wasn't endless throngs of admirers streaming past his final resting plac.
+
+And so it is, I give you Presence. If it were my last day I'd say: you can't give it when you're dead.
+
+<br />
+
+It's not what we say. It's not what we create. Though, yes, our words and creations precede and follow us. It's _our presence_ that matters. Our presence is something we can only offer once, while we're alive. 
 
 Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations. 
 
 Your presence? It is irreplicable.
 
-Why does this matter? I believe it's the foundation for every decision we make each day. It matters more than any other choice we make: where will I spend my attention today? On what will I spend my presence?
+Why does this matter? I believe it's the foundation for every decision we make each day. It matters more than any other choice we make. Where will I spend my attention today? To whom or to what will I give my presence?
 
 <blockquote>If you're someone like me who is working to find your way in the digital world and feel you may benefit from reading the teachings of a unique practitioner technologist, I recommend checking out Digital Warriorship. - Monty McKeever, Tricycle</blockquote>
 
