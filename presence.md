@@ -17,19 +17,9 @@ Presence
 
 **A** Your presence.
 
-Last week as I was putting the finishing touches on Terminal, which is the final nail in the coffin of Presence, I read Steve Jobs's wiki. Did you know his remains are in an unmarked grave? I can only imagine it's so there wasn't endless throngs of admirers streaming past his final resting plac.
+Last week as I was putting the finishing touches on Terminal, which is the final nail in the coffin of Presence, I read Steve Jobs's wiki. Do you know his remains are in an unmarked grave at Alta Mesa Memorial Park? I can only imagine he made that decision so there's no endless throng of admirers and haters streaming past his final resting place.
 
-And so it is, I give you Presence. If it were my last day I'd say: you can't give it when you're dead.
-
-<br />
-
-It's not what we say. It's not what we create. Though, yes, our words and creations precede and follow us. It's _our presence_ that matters. Our presence is something we can only offer once, while we're alive. 
-
-Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations. 
-
-Your presence? It is irreplicable.
-
-Why does this matter? I believe it's the foundation for every decision we make each day. It matters more than any other choice we make. Where will I spend my attention today? To whom or to what will I give my presence?
+And so it is, I give you Presence. If it were my last day I'd say: you can't give it when you're dead. Until that day, I do the work. This is a compilation of the best I've offered from the past three years.
 
 <blockquote>If you're someone like me who is working to find your way in the digital world and feel you may benefit from reading the teachings of a unique practitioner technologist, I recommend checking out Digital Warriorship. - Monty McKeever, Tricycle</blockquote>
 
@@ -126,9 +116,19 @@ _Presence_ includes a PDF of Digital Warriorship I, Digital Warriorship II, Reve
 
 **Limited Time Offer** On June 1st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence + Terminal for only $97. Buy now, save $28.
 
-My writing will continue to be about hard technical skills, as I cover in [Git Commit](http://git.gwenbell.com). If you don't have down the fundamentals I cover in _Presence_, your learning curve with hard technical skills will be that much steeper. 
+My writing is and will continue to be about hard technical skills, like those I cover in [Git Commit](http://git.gwenbell.com). If you don't have down the fundamentals I cover in _Presence_, your learning curve with hard technical skills will be that much steeper. 
 
 I would not have become a programmer if I had not done the things that I rolled into _Presence_.
+
+<hr />
+
+It's not what we say. It's not what we create. Though, yes, our words and creations precede and follow us. It's _our presence_ that matters. Our presence is something we can only offer once, while we're alive. 
+
+Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations. 
+
+Your presence? It is irreplicable.
+
+Why does this matter? I believe it's the foundation for every decision we make each day. It matters more than any other choice we make. Where will I spend my attention today? To whom or to what will I give my presence?
 
 ### <del style="color: #999;">$125</del> $97
 
