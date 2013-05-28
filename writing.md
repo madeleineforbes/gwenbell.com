@@ -7,7 +7,6 @@ Writing
 
 <a name="tech"></a>
 <br />
-<br />
 
 <h1>Technical Writing</h1>
 
