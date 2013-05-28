@@ -90,11 +90,23 @@ When I check out, I check in with myself to course-correct. I determine the caus
 
 When you buy Presence, you'll also get Terminal.
 
-Terminal is dead people on tech. I have conversations with Steve Jobs, Alan Watts, Biggie Smalls, Audrey Hepburn, a cameo from Marilyn Monroe, Rilke, Nina Simone, Jean Dominique-Bauby, my mom, faeries and you freshly dead.
+Terminal is dead people on tech. I have conversations on 
 
-They showed up in the bath tub one day and I wrote down what they said.
++ We are all terminal
++ Steve Jobs: intro, Body is Weak, Tech is Strong, Steve and Alan
++ Roundtable discussion
++ Alan Watts: Steve and Alan 
++ Biggie Smalls: And Another One 
++ Audrey Hepburn: Poise and the Public
++ Rilke: Push Pen 
++ Nina Simone: What Shakes You? 
++ Jean Dominique-Bauby: Drop the Agenda
++ A new pair of underwear 
++ My mom
++ Faeries
++ You: Freshly dead
 
-I added it to _Presence_ because it rounds it out. It's the final nail in the coffin.  
+They showed up in the bath tub one day and I wrote down what they said. Terminal is about perspective. It frames all the previous work I did. I added it to _Presence_ because it rounds it out. It's the final nail in the coffin.  
 
 **Technical Skill Level: Intermediate | HTML | Included in Presence  <del>$125</del> $97* ** 
 
