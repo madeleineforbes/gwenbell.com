@@ -94,21 +94,11 @@ When I check out, I check in with myself to course-correct. I determine the caus
 
 When you buy Presence, you'll also get Terminal.
 
-Terminal is dead people on tech. I have conversations with 
-
-+ Steve Jobs
-+ Alan Watts
-+ Biggie Smalls
-+ Audrey Hepburn
-+ Cameo from Marilyn Monroe
-+ Nina Simone
-+ Jean Dominique-Bauby
-+ My mom
-+ You
+Terminal is dead people on tech. I have conversations with Steve Jobs, Alan Watts, Biggie Smalls, Audrey Hepburn, a cameo from Marilyn Monroe, Rilke, Nina Simone, Jean Dominique-Bauby, my mom, faeries and you freshly dead.
 
 They showed up in the bath tub one day and I wrote down what they said.
 
-It's in Presence because it rounds out Presence. It's the final nail in the coffin.  
+I added it to _Presence_ because it rounds it out. It's the final nail in the coffin.  
 
 **Technical Skill Level: Intermediate | HTML | Buy with Presence <del>$125</del> $97* ** 
 
@@ -126,7 +116,7 @@ Money. Can't take that with you when you die.
 
 Presence? Can't give _that_ from the grave.
 
-_Presence_ includes a PDF of Digital Warriorship I, Digital Warriorship II, Reverb and the Attention Detox, for just $97. As of June 2013, it includes the bonus, Terminal.
+_Presence_ includes a PDF of Digital Warriorship I, Digital Warriorship II, Reverb and the Attention Detox, for just $97. As of June 2013, it includes the bonus, Terminal as an HTML document.
 
 <a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><img src="/images/presence.jpg" style="width: 50%; float: right; margin-left: 1em; border: 1px solid #ccc; padding: 3px; box-shadow: 1px 3px 3px #ccc; background: white; margin-bottom: 1em;"></a>
 
