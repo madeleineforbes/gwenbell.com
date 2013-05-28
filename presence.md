@@ -13,17 +13,17 @@ Presence
 
 ### What is presence?
 
-**Presence is practices, experience-based experiments, things to do to manage your attention, hone your focus, get clarity around your message, and be present for yourself and others**
+**Q** What is the one thing you can't take with you when you die?
 
-_Presence_ is a curated collection of the work I created from 2011 to 2012 + Terminal: Dead people on tech. It started in Boulder in 2011 and ends in Brooklyn in 2013.
+**A** Your presence.
 
-You go out for coffee. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there when you return. She notices your lack of it. What's lacking is your presence.
+It's not what we say. It's not what we create. Though our words and creations precede and follow us, it's _our presence_ that matters. Our presence is something we can only offer once, while we're alive. 
 
-It is not what we say. It's not what we create. Although, yes our words and creations precede and follow us. It is _our presence_ that matters. Our presence is something we can only offer while we're alive. 
-
-We can only offer our presence _once_. In the moment we are in. Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations. 
+Post-death, we offer stand-ins for our presence - book titles, movie credits, bylines, grave markers, holographic representations. 
 
 Your presence? It is irreplicable.
+
+Why does this matter? I believe it's the foundation for every decision we make each day. It matters more than any other choice we make: where will I spend my attention today? On what will I spend my presence?
 
 <blockquote>If you're someone like me who is working to find your way in the digital world and feel you may benefit from reading the teachings of a unique practitioner technologist, I recommend checking out Digital Warriorship. - Monty McKeever, Tricycle</blockquote>
 
