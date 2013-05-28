@@ -1,5 +1,1 @@
-###News
-
-New piece on the [_Terminal_](http://gwenbell.com/writing#death) writing process.</p> _Terminal_ enters the world on Tuesday, 28 May 2013, via the letter. See sidebar to become a reader if you're not already. 
-
-<img src="/images/herhighness.jpg" style="border: 1px solid #ccc; padding:4px; width=100%; box-shadow: 1px 3px 3px #ccc;">
+<a href="http://gwenbell.com/presence"><img src="/images/presence.jpg" style="border: 1px solid #ccc; padding:4px; width=100%; box-shadow: 1px 3px 3px #ccc;"></a>
