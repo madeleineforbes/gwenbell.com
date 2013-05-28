@@ -40,7 +40,7 @@ To be present for others, first see and hear yourself.
 
 Align your real self with your digital self. My path from scrolling for empathy to taking digital sabbaticals and what I learned. Here's an introduction to start developing your presence.
 
-**Technical Skill Level: Beginner | PDF | Original Price: $30**
+**Technical Skill Level: Beginner | PDF | Original Price: $30 | Included in Presence **
 
 ***
 
@@ -54,7 +54,7 @@ An Attention Detox helps you keep track of your attention for 168 hours. It's gu
 
 The original version included a guided version - I watched, shared observations and guided participants. The attention detox included with Presence is self-guided.
 
-**Technical Skill Level: Intermediate | PDF | Original Price $149**
+**Technical Skill Level: Intermediate | PDF | Original Price $149 | Included in Presence **
 
 ***
 
@@ -68,7 +68,7 @@ It’s a reverberation when the desire to see it chart its own path becomes grea
 
 Once you're aligned, your message can travel. Reverb started as #best09 and became #reverb10. From hundreds of participants in year one, to thousands in year two, the project reverberated through the web, generating over 1k pages of tweets in just one month. Here's how that, and other successful reverberations, happened.
 
-**Technical Skill Level: Beginner | PDF | Original Price $49**
+**Technical Skill Level: Beginner | PDF | Original Price $49 | Included in Presence **
 
 ***
 
@@ -82,7 +82,7 @@ Experiments in paying better, closer attention.
 
 When I check out, I check in with myself to course-correct. I determine the cause of the check out, and I spend time determining the best route to getting back in the flow. Sometimes, that means a year off the public web, as it did in 2012. During that time I wrote Digital Warriorship again, this time in Kyoto, Japan. 
 
-**Technical Skill Level: Beginner | PDF | Original Price $39**
+**Technical Skill Level: Beginner | PDF | Original Price $39 | Included in Presence **
 
 ***
 
@@ -100,15 +100,13 @@ They showed up in the bath tub one day and I wrote down what they said.
 
 I added it to _Presence_ because it rounds it out. It's the final nail in the coffin.  
 
-**Technical Skill Level: Intermediate | HTML | Buy with Presence <del>$125</del> $97* ** 
+**Technical Skill Level: Intermediate | HTML | Included in Presence  <del>$125</del> $97* ** 
 
 ***
 
 ### Why presence?
 
 In Japan, whether or not someone does business with you is based on their first impression. They do a presence check. Perhaps we all do that.
-
-In yoga class this week in New York, the teacher instructed his students: take your phones off your mats, put them in your bags, unless you can justify them to me. Nobody even _attempted_ to justify their phone. If we can't justify it, why don't we make that same choice daily? What if you can?
 
 Money. Can't take that with you when you die.
 
@@ -139,6 +137,6 @@ May 2013 <br />
 
 <hr />
 
-###A little love letter from the past
+###A love letter from the past
 
 <p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;"></p><iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/144180620/content?start_page=1&view_mode=scroll&show_recommendations=false" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_81902" width="100%" height="600" frameborder="0"></iframe>
