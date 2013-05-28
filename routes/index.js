@@ -23,8 +23,8 @@ exports.deadpeople = function(req, res){
 res.render('deadpeople', { title: 'Dead People'});
 };
 
-exports.thework = function(req, res){
-res.render('thework', { title: 'The Work'});
+exports.presence = function(req, res){
+res.render('presence', { title: 'Presence'});
 };
 
 exports.tech = function(req, res){

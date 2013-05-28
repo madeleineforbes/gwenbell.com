@@ -33,7 +33,7 @@ app.get('/tech', routes.tech);
 app.get('/responses', routes.responses);
 app.get('/deadpeople', routes.deadpeople);
 app.get('/writing', routes.writing);
-app.get('/thework', routes.thework);
+app.get('/presence', routes.presence);
 app.get('*', routes.index);
 
 http.createServer(app).listen(app.get('port'), function(){
