@@ -138,6 +138,11 @@ My writing will continue to be about hard technical skills, as I cover in [Git C
 
 I would not have become a programmer if I had not done the things that I rolled into _Presence_.
 
+Gwen <br />
+
+81 A Hart Street <br />
+Brooklyn, New York <br />
+
 ### <del style="color: #999;">$125</del> $97
 
 <a href="http://gwenbell.fetchapp.com/sell/opaichee/ppc"><button style="font-size: 1.2em; font-weight: normal;">Buy Now</button></a>
