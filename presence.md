@@ -13,9 +13,11 @@ Presence
 
 ### What is presence?
 
+<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View The Bell  20 July 2011 on Scribd" href="http://www.scribd.com/doc/144180620/The-Bell-20-July-2011"  style="text-decoration: underline;" >The Bell  20 July 2011</a></p><iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/144180620/content?start_page=1&view_mode=scroll&show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_81902" width="100%" height="600" frameborder="0"></iframe>
+
 **Presence is practices, experience-based experiments, things to do to manage your attention, hone your focus, get clarity around your message, and be present for yourself and others**
 
-**Presence is a curated collection of the work I created from 2011 to 2012 + Terminal: Dead people on tech**
+_Presence_ is a curated collection of the work I created from 2011 to 2012 + Terminal: Dead people on tech. It started in Boulder in 2011 and ends in Brooklyn in 2013.
 
 You go out for coffee. You spend an inordinate amount of time texting in the restroom. You don't have to tell her what you were doing in there when you return. She notices your lack of it. What's lacking is your presence.
 
