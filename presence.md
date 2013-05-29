@@ -3,6 +3,9 @@
 Presence
 --------
 
+<blockquote>If you're someone like me who is working to find your way in the digital world and feel you may benefit from reading the teachings of a unique practitioner technologist, I recommend checking out Digital Warriorship. - Monty McKeever, Tricycle</blockquote>
+
+
 **Limited Time Offer** On June 1st 2013 at 1pm EST, the price of Presence goes up to $125. If you buy right now, you'll get all of the collected work in Presence + Terminal for only $97. Buy now, save $28.
 
 ### <del style="color: #999;">$125</del> $97
@@ -20,8 +23,6 @@ Presence
 Last week as I was putting the finishing touches on Terminal, which is the final nail in the coffin of Presence, I read Steve Jobs's wiki. Do you know his remains are in an unmarked grave at Alta Mesa Memorial Park? I can only imagine he made that decision so there's no endless throng of admirers and haters streaming past his final resting place.
 
 And so it is, I give you Presence. If it were my last day I'd say: you can't give it when you're dead. Until that day, I do the work. This is a compilation of the best I've offered from the past three years.
-
-<blockquote>If you're someone like me who is working to find your way in the digital world and feel you may benefit from reading the teachings of a unique practitioner technologist, I recommend checking out Digital Warriorship. - Monty McKeever, Tricycle</blockquote>
 
 ***
 
@@ -90,23 +91,11 @@ When I check out, I check in with myself to course-correct. I determine the caus
 
 When you buy Presence, you'll also get Terminal.
 
-Terminal is dead people on tech. I have conversations on 
+Terminal is dead people on tech. I have conversations with Steve Jobs: , Alan Watts, Biggie Smalls, Audrey Hepburn, a cameo from Marilyn Monroe, Rilke, Nina Simone, Jean Dominique-Bauby, my mom, faeries and you freshly dead.
 
-+ We are all terminal
-+ Steve Jobs: intro, Body is Weak, Tech is Strong, Steve and Alan
-+ Roundtable discussion
-+ Alan Watts: Steve and Alan 
-+ Biggie Smalls: And Another One 
-+ Audrey Hepburn: Poise and the Public
-+ Rilke: Push Pen 
-+ Nina Simone: What Shakes You? 
-+ Jean Dominique-Bauby: Drop the Agenda
-+ A new pair of underwear 
-+ My mom
-+ Faeries
-+ You: Freshly dead
+They showed up in the bath tub one day and I wrote down what they said.
 
-They showed up in the bath tub one day and I wrote down what they said. Terminal is about perspective. It frames all the previous work I did. I added it to _Presence_ because it rounds it out. It's the final nail in the coffin.  
+I added it to _Presence_ because it rounds it out. It's the final nail in the coffin.  
 
 **Technical Skill Level: Intermediate | HTML | Included in Presence  <del>$125</del> $97* ** 
 
@@ -140,7 +129,7 @@ Post-death, we offer stand-ins for our presence - book titles, movie credits, by
 
 Your presence? It is irreplicable.
 
-Why does this matter? I believe it's the foundation for every decision we make each day. It matters more than any other choice we make. Where will I spend my attention today? To whom or to what will I give my presence?
+Where will I spend my attention today? To whom or to what will I give my presence? I believe these two questions are the foundation for every decision we make each day.
 
 ### <del style="color: #999;">$125</del> $97
 
