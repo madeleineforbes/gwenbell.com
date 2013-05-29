@@ -1,14 +1,156 @@
 Writing
 =======
 
-<a href="#tech">Tech</a> | <a href="#death">Death</a>
+###Gwen Bell, I Hate You: The End of Personal Narrative
 
-<blockquote>I find it so refreshing how you start over from scratch again and again... not only with the website but also the different networks and platforms you use. Just wanted to let you know that I love what you do - in every aspect - and that you're such an inspiration for me! - RS </blockquote>
+**If you have any notions of me or yourself you cherish, do not read any further. Click away now.**
 
-<a name="tech"></a>
-<br />
+The era of personal narrative _is over_. 
 
-<h1>Technical Writing</h1>
+If you want to make it on the web, you have to boost your technical skills. That's the only thing left that people will pay you for. And even that, India's watching. (Note, I don't begrudge India that. Mofos know how to hustle.)
+
+Nobody wants to pay you for personal narrative anymore; people believe they're _entitled_ to it.
+
+<hr />
+
+In 2008 or thereabouts I found myself at a tech event. Soft tech. Blogging. I was at this shindig in the backyard of an 'industry' guy who has since done some of the shadiest shit known to man - which is ok, [BJ Mendelson](http://bjmendelson.com/) is _on_ his ass. 
+
+At the event, I was wearing cherry red four-inch platform shoes.
+
+Anyway, this woman clumps up to me with her thousdand dollar camera and says, Gwen Bell. I'll just say it since nobody else will. I hate you. I hate your long long beautiful legs and I was tempted to trip you, just to spite you. Just to **stop your strut**. 
+
+Then she laughed loud and full all, _just kiddin' girlfriend_. 
+
+I shrugged it off but did not forget.
+
+At least she was honest and direct. She was telling the truth. People have been jealous of what I get up to since I was old enough to understand what jealousy was, so probably elementary school. Usually I shrugged it off, and for a time, I rolled that energy into my work and just kept telling stronger, better stories.
+
+That stopped yesterday. 
+
+**Yesterday, I ended the contract with my literary agent.** I called it off, she was gracious about it, and I am grateful for that. 
+
+The book I thought I'd publish was personal narrative. Memoir. To this day, people email asking for it. Gwen Bell. Write your memories. You have _such_ a _fascinating_ life _story_. Recently I've taken to interpreting that as _Gwen Bell. I hate you. Why do you have to have such a great life?_
+
+Since I got divorced, the jealousy around my personal life appears to have increased. You'd think it'd decrease, right? It hasn't. Why? **People want divorces like a fat kid wants another donut.** 
+
+People, including people like you reading these words right now, are afraid to get a divorce. And I had the balls and chutzpah to do it. I got one. 
+
+That adds a whole new level to the jealousy. People not knowing why they're jealous of my misfortune. Yet they are. They see me hitting my stride in 2013, and they're all, shit. How's she doing this _after_ a divorce. She should be staring at the bottom of another ice cream vat.
+
+They see the divorce as unfortunate. I see it as I don't even have a word for it, so I'll use a phrase. I'm free, bitches!
+
+Haha. 
+
+And if you were thinking a man will bail you out, you're wrong. Wrong, wrong riggity wrong. Don't be that kind of wrong. 
+
+I proved that. All of it, by the time I turned thirty. A man is not going to bail you out, yo. You are. Only you. Occasionally a kind soul or twelve will throw you a [gittip](http://gittip.com/gwenbell), but no Man Plan is gonna cut it.
+
+And still. After all that. I am still in possession of the long legs, the great figure, the beautiful apartment in Brooklyn, the daily donut habit, the tremendous yoga practice, the grandparents who love me and the guy match with whom I spend a lot of my time. 
+
+So. Why am I telling you this?
+
+Because I'm telling it for the last time.
+
+Today I deleted all but the two pertinent paragraphs from my about page. 
+
+You don't _care_ about my about page. Nor do I care about yours. 
+
+YOU care about your about page. 
+
+YOU care about your Twitter feed. 
+
+YOU care who retweets you. 
+
+I do not.
+
+In 2011 during a speaking engagement I told a roomful of women bloggers that I don't use RSS because I don't read anybody's blog. Time stopped. There was a collective gasp. Like how _dare_ I say that. They thought of themselves as peers. I thought of them as potential customers.
+
+I'm usually two years ahead of things on the tech front, so now it's two years later. Whose blog do you read? Whose site do you contribute to or care about, other than your own?
+
+On a recent call a reader (I'll venture _former reader_ after this) asked why I don't subscribe to her updates. On the spot, I came clean. What I've seen of your life, I said...well, I already know too much. Why would I subscribe to more drama?
+
+I don't do drama. 
+
+_That_ is why I don't have a F-book account. That and I think it's a terrible color blue.
+
+I haven't clicked back to her site since. She was right to put me on the spot. Not even a little drama? _Not even a little_. It's _shenpa_. It's the itch you shouldn't scratch. The scab you shouldn't pick.
+
+Also like the blogging women of 2011, she's a potential client, not a peer. You want to be a peer, up your [technical skills game](http://git.gwenbell.com).
+
+So. Here's what I'm gonna do. Right now. I'll tell you one last final personal narrative. It's also the secret to all I've done to date and will do in the future and if you have any reason to be jealous of me, it's this.
+
+**How to Ditch the Story and Upgrade Your Game**
+
+Hi. I'm Gwen Bell. I'm a developer. I'm obsessed with Git. 
+
+And you. Let's talk about you. 
+
+There are two groups of people who subscribe to my work. 
+
+On one side of the room, I have the ladies. You email me telling me you don't want to learn technical skills. You wish you had the energy, time, the Presence, to sit down and learn something hard. You say you can't be fucked. 
+
+Why? You say it's because you care more about my personal life than my professional abilities. You want to hear more stories, more creative writing, more memoir. That's a lie.
+
+Really, women, isn't what you want more _drama_? Isn't what you want is one more distraction so you don't have to look at yourself and your life?
+
+On the other side of the room there are the people who support my work. I hate to say it. No, really I do hate to say it, because I want it to be false, but those of you who support my work are almost exclusively men. Men with technical skills. Men who live in on the West or East coast in an above average city. Men from Germany and London, New York and SF. Men who usually have excellent senses of style and humor. (Thank you, guys.)
+
+I'll throw a few of you ladies in this camp. Most of you in this camp are pretty manly ladies if I may say so. I include myself in this camp - you can smell my pits and find out. You're not the kitten-keeping-call-your-girlfriends-and-catch-up-on-the-latest-drama-box-wine type. 
+
+You're dedicated to your craft. 
+
+You know beyond doubt the only way you're going to get ahead in life is by learning more than you already know.
+
+See. Right then? I just gave you the secret.
+
+And the men. You know what? When you email, you have specific questions about technical things you want to achieve in the digital space. I love these types of emails.
+
+So we have these two camps. The art-school drama-obsessed women of the social web, and the technically skilled men and women of the open Internet.
+
+I'm at a fork. Do I continue to cater to the women out there? Do I keep writing more tidbits about my life, or do I go 100% into the deep end with writing about dev work?
+
+Who am I going to keep on the list, and who'm I going to fire?
+
+I'm letting the money speak. The camp with the most cash gets the most votes.
+
+I'm pulling up my sales from April and May. I'm looking at my list of sales here on Fetchapp. And...scans sales...you know what I see?
+
+The men and women with the technical skills have won.
+
+Why? Because they're the highest earners. The men are bringing home the most and juiciest bacon.
+
+So here's what I've decided to do. 
+
+I let my literary agent go yesterday. The last artschool drama you'll ever read from me has been packaged up into Presence. 
+
+It's a little document sent to me by the faeries to teach your tender hearts tech. You like to save money, so you're going to buy it before the price goes up to $125. Once the price goes up, there it will sit, and wait. And if you want to hear more personal narrative, you will buy it.
+
+Me? I'm pivoting 100% into the development world. 
+
+If you don't know what I mean when I say I'm Committed to Git. If your only presence on the web is your F-book account, I hope you lock yourself in. Stay there. I cannot help you.
+
+You vote with your money and in exchange I care about those of you who have put down credit cards. The money has voted, and we have our decision.
+
+It's technical writing and web development here on out.
+
+Do you have the ability to sit still and concentrate long enough to learn some hard shit? If not, get out of my inbox. You're fired. I don't want to hear from you until you're ready to commit. 
+
+To the work. 
+
+The work is now Git, Node.js, JavaScript, the terminal and the inner workings of that machine you're parked at day in, day out.
+
+Jealousy? Hate? I just gave you another dozen reasons for both.
+
+And here's the _final_ final thought. I don't wear platforms anymore. I don't have to be cute. 
+
+I wear Chucks. So now motherfuckers, I don't strut. 
+
+_I run._
+
+Gwen <br />
+
+29 May 2013 <br />
+Brooklyn, New York <br />
 
 ###On Open Source: I Don't Exist Without You
 
