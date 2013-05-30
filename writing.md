@@ -1,5 +1,15 @@
 Writing
 =======
+<a name="#top"></a>
+<a href="#opensource">On Open Source: I Don't Exist Without You</a>
+<a href="#ditchpoogle">Ditch Google for Good</a>
+<a href="#totalbuyin">Total Buy-in</a>
+<a href="#engineer">An Engineer Like You</a>
+
+###Writing On Death
+<a href="#tuesday">Tuesday. To the Letter</a>
+<a href="#comeout">Come Out Clean</a>
+<hr />
 
 ###Gwen Bell, I Hate You: The End of Personal Narrative
 
@@ -151,7 +161,9 @@ Gwen <br />
 
 29 May 2013 <br />
 Brooklyn, New York <br />
+<a href="top">Top</a>
 
+<a name="opensource"></a>
 ###On Open Source: I Don't Exist Without You
 
 You send messages. You ask: _How do I start programming? How do I become a web developer? How can I do what you do?_ 
@@ -216,9 +228,10 @@ We become self-reliant citizens of the web one line of code at a time.
 
 23 May 2013 <br />
 Brooklyn, New York <br />
-
+<a href="top">Top</a>
 <hr />
 
+<a name="ditchpoogle"></a>
 ###Ditch Google for Good
 
 Brooklyn, New York <br />
@@ -268,6 +281,9 @@ Our work becomes more resilient through deletion.
 
 If you get something from this work, consider [giving to it](http://gittip.com/gwenbell). If you already support the work, thank you.
 
+<a href="top">Top</a>
+
+<a name="totalbuyin"></a>
 ###Total Buy-in
 
 Listen as I read this: 
@@ -347,6 +363,7 @@ And I do.
 
 10 May 2013 <br />
 Brooklyn, New York <br />
+<a href="top">Top</a>
 
 ###An Engineer Like You
 
@@ -407,14 +424,13 @@ _Mmhmm, well, alright honey. Call your grandmother, she's over at Et's._
 
 9 May 2013 <br />
 Brooklyn, New York <br />
-
-<a name="death"></a>
-
+<a href="top">Top</a>
 
 <hr />
 
 <h1>Writing on Death</h1>
 
+<a name="tuesday"></a>
 ###Tuesday. To the Letter.
 
 I'm coming into the final stretch for _Terminal_. 
@@ -444,7 +460,9 @@ Tuesday. To the letter.
 25 May 2013 <br />
 Brooklyn, New York <br />
 Cinder and Smoke <br />
+<a href="top">Top</a>
 
+<a name="comeout"></a>
 ###Come Out Clean
 
 I'm holding the certificate of my mom's death. It's rusty paper clipped together with the paperwork terminating my father's parental rights.
@@ -515,6 +533,7 @@ Gwen <br />
 7 May 2013 <br />
 Bed-Stuy Brooklyn <br />
 New York City <br />
+<a href="top">Top</a>
 
 <blockquote>Your passion and dedication are highly admirable and have inspired me. - JPR </blockquote>
 
